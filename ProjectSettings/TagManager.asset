@@ -41,5 +41,26 @@ TagManager:
   - name: Default
     uniqueID: 0
     locked: 0
+  - name: sky
+    uniqueID: 1708660579
+    locked: 0
+  - name: rock1
+    uniqueID: 2764597723
+    locked: 0
+  - name: rock2
+    uniqueID: 1911837915
+    locked: 0
+  - name: Ground
+    uniqueID: 3399992901
+    locked: 0
+  - name: platfrom1
+    uniqueID: 2117828891
+    locked: 0
+  - name: platform2
+    uniqueID: 3413972201
+    locked: 0
+  - name: player
+    uniqueID: 2084005647
+    locked: 0
   m_RenderingLayers:
   - Default
