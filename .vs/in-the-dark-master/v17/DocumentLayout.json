@@ -1,0 +1,61 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Firas\\Downloads\\Graphics\\in-the-dark-master\\in-the-dark-master\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4D9F33F4-F1E7-DD7B-8C5C-092AF5384F79}|Assembly-CSharp.csproj|c:\\users\\firas\\downloads\\graphics\\in-the-dark-master\\in-the-dark-master\\assets\\scripts\\player.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4D9F33F4-F1E7-DD7B-8C5C-092AF5384F79}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\player.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4D9F33F4-F1E7-DD7B-8C5C-092AF5384F79}|Assembly-CSharp.csproj|C:\\Users\\Firas\\Downloads\\Graphics\\in-the-dark-master\\in-the-dark-master\\assets\\trap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4D9F33F4-F1E7-DD7B-8C5C-092AF5384F79}|Assembly-CSharp.csproj|solutionrelative:assets\\trap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Trap.cs",
+              "DocumentMoniker": "C:\\Users\\Firas\\Downloads\\Graphics\\in-the-dark-master\\in-the-dark-master\\Assets\\Trap.cs",
+              "RelativeDocumentMoniker": "Assets\\Trap.cs",
+              "ToolTip": "C:\\Users\\Firas\\Downloads\\Graphics\\in-the-dark-master\\in-the-dark-master\\Assets\\Trap.cs",
+              "RelativeToolTip": "Assets\\Trap.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAYwBYAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-16T16:15:46.476Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Player.cs",
+              "DocumentMoniker": "C:\\Users\\Firas\\Downloads\\Graphics\\in-the-dark-master\\in-the-dark-master\\Assets\\Scripts\\Player.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Player.cs",
+              "ToolTip": "C:\\Users\\Firas\\Downloads\\Graphics\\in-the-dark-master\\in-the-dark-master\\Assets\\Scripts\\Player.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Player.cs",
+              "ViewState": "AgIAAKsAAAAAAAAAAAA+wLoAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-16T14:48:43.235Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
