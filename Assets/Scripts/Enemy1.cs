@@ -6,12 +6,12 @@ public class Enemy1 : MonoBehaviour
     public HealthBar enemyHealthBar;
 
     [Header("Stats")]
-    [SerializeField] private int maxHealth = 100;
+    [SerializeField] private int maxHealth = 80;
     private int currentHealth;
 
     [Header("Combat")]
-    [SerializeField] private float damageRate = 1.0f; // Damage every 1 second
-    [SerializeField] private int attackDamage = 20;   // How much damage to deal
+    [SerializeField] private float damageRate = 0.4f; // Damage every 1 second
+    [SerializeField] private int attackDamage = 15;   // How much damage to deal
     [SerializeField] private float knockbackForce = 10f;
 
     private float nextDamageTime; // Timer for continuous damage
@@ -24,7 +24,7 @@ public class Enemy1 : MonoBehaviour
 
     [Header("AI Movement")]
     [SerializeField] private float moveSpeed = 3f;
-    [SerializeField] private float chaseRange = 10f;
+    [SerializeField] private float chaseRange = 30f;
     [SerializeField] private float stopDistance = 1.0f;
 
     private Transform playerTarget;
@@ -81,10 +81,12 @@ public class Enemy1 : MonoBehaviour
     {
         currentHealth -= damageAmount;
 
+        AudioManager.instance.PlaySFX("hurt");
+
         if (anim != null) anim.SetTrigger("hurt");
 
         if (enemyHealthBar != null)
-        enemyHealthBar.SetHealth(currentHealth);
+            enemyHealthBar.SetHealth(currentHealth);
 
         if (rb != null && attacker != null)
         {
@@ -118,6 +120,12 @@ public class Enemy1 : MonoBehaviour
         if (myCollider != null) myCollider.enabled = false;
         if (rb != null) rb.linearVelocity = Vector2.zero;
 
+        if (LevelManager.instance != null)
+        {
+            LevelManager.instance.AddKill();
+        }
+        AudioManager.instance.PlaySFX("die");
+
         Destroy(gameObject, 2f);
         this.enabled = false;
     }
@@ -143,7 +151,7 @@ public class Enemy1 : MonoBehaviour
             Player player = playerObj.GetComponent<Player>();
             if (player != null)
             {
-                player.TakeDamage(attackDamage);
+                player.TakeDamage(attackDamage, transform);
                 nextDamageTime = Time.time + damageRate; // Reset Timer
             }
         }

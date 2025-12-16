@@ -1,0 +1,174 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\0-Dev\\4-game_unity\\unity_projects\\hola\\alone_in_the_dark\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C5C268A6-BBAB-2AB2-3064-6F80AF9A7CE2}|Assembly-CSharp.csproj|D:\\0-Dev\\4-game_unity\\unity_projects\\hola\\alone_in_the_dark\\assets\\scripts\\levelmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C5C268A6-BBAB-2AB2-3064-6F80AF9A7CE2}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\levelmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C5C268A6-BBAB-2AB2-3064-6F80AF9A7CE2}|Assembly-CSharp.csproj|D:\\0-Dev\\4-game_unity\\unity_projects\\hola\\alone_in_the_dark\\assets\\enemyhealth.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C5C268A6-BBAB-2AB2-3064-6F80AF9A7CE2}|Assembly-CSharp.csproj|solutionrelative:assets\\enemyhealth.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C5C268A6-BBAB-2AB2-3064-6F80AF9A7CE2}|Assembly-CSharp.csproj|D:\\0-Dev\\4-game_unity\\unity_projects\\hola\\alone_in_the_dark\\assets\\scripts\\enemy1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C5C268A6-BBAB-2AB2-3064-6F80AF9A7CE2}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\enemy1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C5C268A6-BBAB-2AB2-3064-6F80AF9A7CE2}|Assembly-CSharp.csproj|D:\\0-Dev\\4-game_unity\\unity_projects\\hola\\alone_in_the_dark\\assets\\scripts\\player.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C5C268A6-BBAB-2AB2-3064-6F80AF9A7CE2}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\player.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C5C268A6-BBAB-2AB2-3064-6F80AF9A7CE2}|Assembly-CSharp.csproj|D:\\0-Dev\\4-game_unity\\unity_projects\\hola\\alone_in_the_dark\\assets\\scripts\\audiomanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C5C268A6-BBAB-2AB2-3064-6F80AF9A7CE2}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\audiomanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C5C268A6-BBAB-2AB2-3064-6F80AF9A7CE2}|Assembly-CSharp.csproj|D:\\0-Dev\\4-game_unity\\unity_projects\\hola\\alone_in_the_dark\\assets\\scripts\\healthbar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C5C268A6-BBAB-2AB2-3064-6F80AF9A7CE2}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\healthbar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C5C268A6-BBAB-2AB2-3064-6F80AF9A7CE2}|Assembly-CSharp.csproj|D:\\0-Dev\\4-game_unity\\unity_projects\\hola\\alone_in_the_dark\\assets\\scripts\\gameoverui.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C5C268A6-BBAB-2AB2-3064-6F80AF9A7CE2}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\gameoverui.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C5C268A6-BBAB-2AB2-3064-6F80AF9A7CE2}|Assembly-CSharp.csproj|D:\\0-Dev\\4-game_unity\\unity_projects\\hola\\alone_in_the_dark\\assets\\scripts\\playeranimationevents.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C5C268A6-BBAB-2AB2-3064-6F80AF9A7CE2}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\playeranimationevents.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:2:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:3:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "EnemyHealth.cs",
+              "DocumentMoniker": "D:\\0-Dev\\4-game_unity\\unity_projects\\hola\\alone_in_the_dark\\Assets\\EnemyHealth.cs",
+              "RelativeDocumentMoniker": "Assets\\EnemyHealth.cs",
+              "ToolTip": "D:\\0-Dev\\4-game_unity\\unity_projects\\hola\\alone_in_the_dark\\Assets\\EnemyHealth.cs",
+              "RelativeToolTip": "Assets\\EnemyHealth.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-16T14:02:44.643Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "LevelManager.cs",
+              "DocumentMoniker": "D:\\0-Dev\\4-game_unity\\unity_projects\\hola\\alone_in_the_dark\\Assets\\Scripts\\LevelManager.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\LevelManager.cs",
+              "ToolTip": "D:\\0-Dev\\4-game_unity\\unity_projects\\hola\\alone_in_the_dark\\Assets\\Scripts\\LevelManager.cs",
+              "RelativeToolTip": "Assets\\Scripts\\LevelManager.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-16T13:38:02.917Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "AudioManager.cs",
+              "DocumentMoniker": "D:\\0-Dev\\4-game_unity\\unity_projects\\hola\\alone_in_the_dark\\Assets\\Scripts\\AudioManager.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\AudioManager.cs",
+              "ToolTip": "D:\\0-Dev\\4-game_unity\\unity_projects\\hola\\alone_in_the_dark\\Assets\\Scripts\\AudioManager.cs",
+              "RelativeToolTip": "Assets\\Scripts\\AudioManager.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAQwB8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-16T11:20:33.711Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Enemy1.cs",
+              "DocumentMoniker": "D:\\0-Dev\\4-game_unity\\unity_projects\\hola\\alone_in_the_dark\\Assets\\Scripts\\Enemy1.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Enemy1.cs",
+              "ToolTip": "D:\\0-Dev\\4-game_unity\\unity_projects\\hola\\alone_in_the_dark\\Assets\\Scripts\\Enemy1.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Enemy1.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAIwA0AAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-15T07:05:23.758Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "HealthBar.cs",
+              "DocumentMoniker": "D:\\0-Dev\\4-game_unity\\unity_projects\\hola\\alone_in_the_dark\\Assets\\Scripts\\HealthBar.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\HealthBar.cs",
+              "ToolTip": "D:\\0-Dev\\4-game_unity\\unity_projects\\hola\\alone_in_the_dark\\Assets\\Scripts\\HealthBar.cs",
+              "RelativeToolTip": "Assets\\Scripts\\HealthBar.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAswCwAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-15T23:41:59.037Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "GameOverUI.cs",
+              "DocumentMoniker": "D:\\0-Dev\\4-game_unity\\unity_projects\\hola\\alone_in_the_dark\\Assets\\Scripts\\GameOverUI.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\GameOverUI.cs",
+              "ToolTip": "D:\\0-Dev\\4-game_unity\\unity_projects\\hola\\alone_in_the_dark\\Assets\\Scripts\\GameOverUI.cs",
+              "RelativeToolTip": "Assets\\Scripts\\GameOverUI.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAkwCIAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-15T21:43:56.957Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "PlayerAnimationEvents.cs",
+              "DocumentMoniker": "D:\\0-Dev\\4-game_unity\\unity_projects\\hola\\alone_in_the_dark\\Assets\\Scripts\\PlayerAnimationEvents.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\PlayerAnimationEvents.cs",
+              "ToolTip": "D:\\0-Dev\\4-game_unity\\unity_projects\\hola\\alone_in_the_dark\\Assets\\Scripts\\PlayerAnimationEvents.cs",
+              "RelativeToolTip": "Assets\\Scripts\\PlayerAnimationEvents.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-14T07:53:15.382Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Player.cs",
+              "DocumentMoniker": "D:\\0-Dev\\4-game_unity\\unity_projects\\hola\\alone_in_the_dark\\Assets\\Scripts\\Player.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Player.cs",
+              "ToolTip": "D:\\0-Dev\\4-game_unity\\unity_projects\\hola\\alone_in_the_dark\\Assets\\Scripts\\Player.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Player.cs",
+              "ViewState": "AgIAAIIAAAAAAAAAAAAqwJgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-14T06:00:03.51Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

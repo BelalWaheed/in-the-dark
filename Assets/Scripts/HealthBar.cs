@@ -1,28 +1,45 @@
 using UnityEngine;
-using UnityEngine.UI; // Required for UI elements
+using UnityEngine.UI;
 
 public class HealthBar : MonoBehaviour
 {
-    [SerializeField] private Slider slider; // Reference to the UI Slider
-    [SerializeField] private Gradient gradient; // To change color (Green -> Red)
-    [SerializeField] private Image fillImage;   // The colored part of the slider
+    [Header("UI References")]
+    [SerializeField] private Slider slider;
+    [SerializeField] private Image fillImage;
+    [SerializeField] private Gradient gradient;
+
+    [Header("Animation")]
+    [SerializeField] private float smoothSpeed = 5f; // Higher = Faster slide
+
+    private float targetHealth; // Where we want the bar to go
 
     public void SetMaxHealth(int health)
     {
         slider.maxValue = health;
         slider.value = health;
+        targetHealth = health; // Start full
 
-        // Set color to the top of the gradient (Green)
         if (fillImage != null)
             fillImage.color = gradient.Evaluate(1f);
     }
 
     public void SetHealth(int health)
     {
-        slider.value = health;
+        // Don't snap instantly. Just set the "Target" destination.
+        targetHealth = health;
+    }
 
-        // Change color based on percentage left (Green -> Yellow -> Red)
-        if (fillImage != null)
-            fillImage.color = gradient.Evaluate(slider.normalizedValue);
+    private void Update()
+    {
+        // Smoothly move the slider value towards the target health
+        // Mathf.Lerp(current, target, speed) creates a smooth slide
+        if (slider.value != targetHealth)
+        {
+            slider.value = Mathf.Lerp(slider.value, targetHealth, smoothSpeed * Time.deltaTime);
+
+            // Update color based on the CURRENT slider position (changes as it slides)
+            if (fillImage != null)
+                fillImage.color = gradient.Evaluate(slider.normalizedValue);
+        }
     }
 }
