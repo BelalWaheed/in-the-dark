@@ -10,9 +10,9 @@ public class Enemy1 : MonoBehaviour
     private int currentHealth;
 
     [Header("Combat")]
-    [SerializeField] private float damageRate = 0.4f; // Damage every 1 second
+    [SerializeField] private float damageRate = 0.6f; // Damage every 1 second
     [SerializeField] private int attackDamage = 15;   // How much damage to deal
-    [SerializeField] private float knockbackForce = 10f;
+    [SerializeField] private float knockbackForce = 1f;
 
     private float nextDamageTime; // Timer for continuous damage
     private bool isHurt = false;  // Stop moving if hurt
@@ -135,6 +135,8 @@ public class Enemy1 : MonoBehaviour
     {
         if (collision.gameObject.CompareTag("Player"))
             TryDamage(collision.gameObject);
+
+
     }
 
     private void OnCollisionStay2D(Collision2D collision)
@@ -151,6 +153,7 @@ public class Enemy1 : MonoBehaviour
             Player player = playerObj.GetComponent<Player>();
             if (player != null)
             {
+                anim.SetTrigger("attack");
                 player.TakeDamage(attackDamage, transform);
                 nextDamageTime = Time.time + damageRate; // Reset Timer
             }
