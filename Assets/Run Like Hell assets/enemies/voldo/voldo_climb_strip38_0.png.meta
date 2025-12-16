@@ -1,0 +1,767 @@
+fileFormatVersion: 2
+guid: 9f0351aab9cf03f4e8f7bc2f6312fed0
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -305265044518900526
+    second: voldo_climb_strip38_0_0
+  - first:
+      213: -7741635356704454801
+    second: voldo_climb_strip38_0_1
+  - first:
+      213: 116973142478709472
+    second: voldo_climb_strip38_0_2
+  - first:
+      213: 337549106791722317
+    second: voldo_climb_strip38_0_3
+  - first:
+      213: 4564340451710844213
+    second: voldo_climb_strip38_0_4
+  - first:
+      213: 5779451696124572271
+    second: voldo_climb_strip38_0_5
+  - first:
+      213: 4887273923179248826
+    second: voldo_climb_strip38_0_6
+  - first:
+      213: 5351401805155023462
+    second: voldo_climb_strip38_0_7
+  - first:
+      213: -1809824734412090172
+    second: voldo_climb_strip38_0_8
+  - first:
+      213: 3871468337847080562
+    second: voldo_climb_strip38_0_9
+  - first:
+      213: 2515150137029334085
+    second: voldo_climb_strip38_0_10
+  - first:
+      213: -5128911938971237234
+    second: voldo_climb_strip38_0_11
+  - first:
+      213: -801184703371557245
+    second: voldo_climb_strip38_0_12
+  - first:
+      213: -2453202866072673889
+    second: voldo_climb_strip38_0_13
+  - first:
+      213: -2227445442219424394
+    second: voldo_climb_strip38_0_14
+  - first:
+      213: 7573927753440263854
+    second: voldo_climb_strip38_0_15
+  - first:
+      213: 5739867804548153480
+    second: voldo_climb_strip38_0_16
+  - first:
+      213: -6269148457940272806
+    second: voldo_climb_strip38_0_17
+  - first:
+      213: -5771684867884974107
+    second: voldo_climb_strip38_0_18
+  - first:
+      213: -5363731988946569853
+    second: voldo_climb_strip38_0_19
+  - first:
+      213: 6791759095699721252
+    second: voldo_climb_strip38_0_20
+  - first:
+      213: -2351662938508019460
+    second: voldo_climb_strip38_0_21
+  - first:
+      213: 7448956958650594684
+    second: voldo_climb_strip38_0_22
+  - first:
+      213: -1907427022621372424
+    second: voldo_climb_strip38_0_23
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: voldo_climb_strip38_0_0
+      rect:
+        serializedVersion: 2
+        x: 58
+        y: 17
+        width: 51
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2dc6b133f0b73cbf0800000000000000
+      internalID: -305265044518900526
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: voldo_climb_strip38_0_1
+      rect:
+        serializedVersion: 2
+        x: 222
+        y: 17
+        width: 51
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f67c607f8af209490800000000000000
+      internalID: -7741635356704454801
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: voldo_climb_strip38_0_2
+      rect:
+        serializedVersion: 2
+        x: 385
+        y: 17
+        width: 52
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0e264bd04729f9100800000000000000
+      internalID: 116973142478709472
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: voldo_climb_strip38_0_3
+      rect:
+        serializedVersion: 2
+        x: 548
+        y: 17
+        width: 53
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d4d229ccf173fa400800000000000000
+      internalID: 337549106791722317
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: voldo_climb_strip38_0_4
+      rect:
+        serializedVersion: 2
+        x: 710
+        y: 17
+        width: 55
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 53dbb2a357bc75f30800000000000000
+      internalID: 4564340451710844213
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: voldo_climb_strip38_0_5
+      rect:
+        serializedVersion: 2
+        x: 873
+        y: 17
+        width: 56
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f62b80062bcb43050800000000000000
+      internalID: 5779451696124572271
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: voldo_climb_strip38_0_6
+      rect:
+        serializedVersion: 2
+        x: 1043
+        y: 17
+        width: 50
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: abcf02f3db513d340800000000000000
+      internalID: 4887273923179248826
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: voldo_climb_strip38_0_7
+      rect:
+        serializedVersion: 2
+        x: 1212
+        y: 17
+        width: 46
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 66a36aeb69ff34a40800000000000000
+      internalID: 5351401805155023462
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: voldo_climb_strip38_0_8
+      rect:
+        serializedVersion: 2
+        x: 1377
+        y: 16
+        width: 46
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4c4d6af2ef532e6e0800000000000000
+      internalID: -1809824734412090172
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: voldo_climb_strip38_0_9
+      rect:
+        serializedVersion: 2
+        x: 1542
+        y: 17
+        width: 46
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2761c8cf0f73ab530800000000000000
+      internalID: 3871468337847080562
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: voldo_climb_strip38_0_10
+      rect:
+        serializedVersion: 2
+        x: 1704
+        y: 17
+        width: 53
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 544986a49bb97e220800000000000000
+      internalID: 2515150137029334085
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: voldo_climb_strip38_0_11
+      rect:
+        serializedVersion: 2
+        x: 1865
+        y: 18
+        width: 62
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e840c5104c172d8b0800000000000000
+      internalID: -5128911938971237234
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: voldo_climb_strip38_0_12
+      rect:
+        serializedVersion: 2
+        x: 2039
+        y: 18
+        width: 45
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 386cf04d1ce91e4f0800000000000000
+      internalID: -801184703371557245
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: voldo_climb_strip38_0_13
+      rect:
+        serializedVersion: 2
+        x: 2210
+        y: 19
+        width: 42
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f91a4cdadf874fdd0800000000000000
+      internalID: -2453202866072673889
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: voldo_climb_strip38_0_14
+      rect:
+        serializedVersion: 2
+        x: 2379
+        y: 21
+        width: 40
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 675c2fbfb268611e0800000000000000
+      internalID: -2227445442219424394
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: voldo_climb_strip38_0_15
+      rect:
+        serializedVersion: 2
+        x: 2552
+        y: 21
+        width: 39
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eae7742d92ffb1960800000000000000
+      internalID: 7573927753440263854
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: voldo_climb_strip38_0_16
+      rect:
+        serializedVersion: 2
+        x: 2720
+        y: 21
+        width: 43
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8804bcb6b5b18af40800000000000000
+      internalID: 5739867804548153480
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: voldo_climb_strip38_0_17
+      rect:
+        serializedVersion: 2
+        x: 2888
+        y: 19
+        width: 48
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a59384061b28ff8a0800000000000000
+      internalID: -6269148457940272806
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: voldo_climb_strip38_0_18
+      rect:
+        serializedVersion: 2
+        x: 3057
+        y: 16
+        width: 52
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5eff73e313bd6efa0800000000000000
+      internalID: -5771684867884974107
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: voldo_climb_strip38_0_19
+      rect:
+        serializedVersion: 2
+        x: 3218
+        y: 15
+        width: 48
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 385b070ac223095b0800000000000000
+      internalID: -5363731988946569853
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: voldo_climb_strip38_0_20
+      rect:
+        serializedVersion: 2
+        x: 3380
+        y: 16
+        width: 44
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 42cc53bc9ec214e50800000000000000
+      internalID: 6791759095699721252
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: voldo_climb_strip38_0_21
+      rect:
+        serializedVersion: 2
+        x: 3542
+        y: 14
+        width: 41
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cf837ce54073d5fd0800000000000000
+      internalID: -2351662938508019460
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: voldo_climb_strip38_0_22
+      rect:
+        serializedVersion: 2
+        x: 3708
+        y: 15
+        width: 38
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c75fa8b33e2006760800000000000000
+      internalID: 7448956958650594684
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: voldo_climb_strip38_0_23
+      rect:
+        serializedVersion: 2
+        x: 3875
+        y: 16
+        width: 35
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8ff0ca99a357785e0800000000000000
+      internalID: -1907427022621372424
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      voldo_climb_strip38_0_0: -305265044518900526
+      voldo_climb_strip38_0_1: -7741635356704454801
+      voldo_climb_strip38_0_10: 2515150137029334085
+      voldo_climb_strip38_0_11: -5128911938971237234
+      voldo_climb_strip38_0_12: -801184703371557245
+      voldo_climb_strip38_0_13: -2453202866072673889
+      voldo_climb_strip38_0_14: -2227445442219424394
+      voldo_climb_strip38_0_15: 7573927753440263854
+      voldo_climb_strip38_0_16: 5739867804548153480
+      voldo_climb_strip38_0_17: -6269148457940272806
+      voldo_climb_strip38_0_18: -5771684867884974107
+      voldo_climb_strip38_0_19: -5363731988946569853
+      voldo_climb_strip38_0_2: 116973142478709472
+      voldo_climb_strip38_0_20: 6791759095699721252
+      voldo_climb_strip38_0_21: -2351662938508019460
+      voldo_climb_strip38_0_22: 7448956958650594684
+      voldo_climb_strip38_0_23: -1907427022621372424
+      voldo_climb_strip38_0_3: 337549106791722317
+      voldo_climb_strip38_0_4: 4564340451710844213
+      voldo_climb_strip38_0_5: 5779451696124572271
+      voldo_climb_strip38_0_6: 4887273923179248826
+      voldo_climb_strip38_0_7: 5351401805155023462
+      voldo_climb_strip38_0_8: -1809824734412090172
+      voldo_climb_strip38_0_9: 3871468337847080562
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

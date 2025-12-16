@@ -1,0 +1,637 @@
+fileFormatVersion: 2
+guid: f1655f5fb7e071f4cb8a0833a4a7a2b7
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 8718420771958077843
+    second: voldo_walk_strip18_0
+  - first:
+      213: 2277070470498485578
+    second: voldo_walk_strip18_1
+  - first:
+      213: 3223249366830736676
+    second: voldo_walk_strip18_2
+  - first:
+      213: -311126134490980507
+    second: voldo_walk_strip18_3
+  - first:
+      213: 6774885644809607295
+    second: voldo_walk_strip18_4
+  - first:
+      213: -2788384041592869147
+    second: voldo_walk_strip18_5
+  - first:
+      213: 5709224664383519560
+    second: voldo_walk_strip18_6
+  - first:
+      213: 7037252121565011215
+    second: voldo_walk_strip18_7
+  - first:
+      213: -6497110188082627212
+    second: voldo_walk_strip18_8
+  - first:
+      213: -4631096884840151385
+    second: voldo_walk_strip18_9
+  - first:
+      213: 4375855104108455252
+    second: voldo_walk_strip18_10
+  - first:
+      213: -2152767606013750876
+    second: voldo_walk_strip18_11
+  - first:
+      213: 6189595189059675796
+    second: voldo_walk_strip18_12
+  - first:
+      213: -686100864607790774
+    second: voldo_walk_strip18_13
+  - first:
+      213: -5323478205507840012
+    second: voldo_walk_strip18_14
+  - first:
+      213: 3649025876269957456
+    second: voldo_walk_strip18_15
+  - first:
+      213: -6809667334835803787
+    second: voldo_walk_strip18_16
+  - first:
+      213: -5863691326438495165
+    second: voldo_walk_strip18_17
+  - first:
+      213: 6454195983522408946
+    second: voldo_walk_strip18_18
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: voldo_walk_strip18_0
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 17
+        width: 67
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 399b2faff7d0ef870800000000000000
+      internalID: 8718420771958077843
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: voldo_walk_strip18_1
+      rect:
+        serializedVersion: 2
+        x: 221
+        y: 17
+        width: 73
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a45089a4787c99f10800000000000000
+      internalID: 2277070470498485578
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: voldo_walk_strip18_2
+      rect:
+        serializedVersion: 2
+        x: 389
+        y: 17
+        width: 70
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 425e27cb8384bbc20800000000000000
+      internalID: 3223249366830736676
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: voldo_walk_strip18_3
+      rect:
+        serializedVersion: 2
+        x: 558
+        y: 16
+        width: 64
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 56f1359dd68aeabf0800000000000000
+      internalID: -311126134490980507
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: voldo_walk_strip18_4
+      rect:
+        serializedVersion: 2
+        x: 725
+        y: 16
+        width: 53
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f7815cc599a350e50800000000000000
+      internalID: 6774885644809607295
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: voldo_walk_strip18_5
+      rect:
+        serializedVersion: 2
+        x: 890
+        y: 16
+        width: 46
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5ee2d77dc7bad49d0800000000000000
+      internalID: -2788384041592869147
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: voldo_walk_strip18_6
+      rect:
+        serializedVersion: 2
+        x: 1050
+        y: 16
+        width: 50
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 84b7a7f559d3b3f40800000000000000
+      internalID: 5709224664383519560
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: voldo_walk_strip18_7
+      rect:
+        serializedVersion: 2
+        x: 1211
+        y: 16
+        width: 57
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f0d1fb4058759a160800000000000000
+      internalID: 7037252121565011215
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: voldo_walk_strip18_8
+      rect:
+        serializedVersion: 2
+        x: 1375
+        y: 23
+        width: 67
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 47d73c405b0a5d5a0800000000000000
+      internalID: -6497110188082627212
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: voldo_walk_strip18_9
+      rect:
+        serializedVersion: 2
+        x: 1405
+        y: 16
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7a64faa7be90bbfb0800000000000000
+      internalID: -4631096884840151385
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: voldo_walk_strip18_10
+      rect:
+        serializedVersion: 2
+        x: 1539
+        y: 16
+        width: 77
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 455e6fc68092abc30800000000000000
+      internalID: 4375855104108455252
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: voldo_walk_strip18_11
+      rect:
+        serializedVersion: 2
+        x: 1705
+        y: 16
+        width: 75
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4a11597a445df12e0800000000000000
+      internalID: -2152767606013750876
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: voldo_walk_strip18_12
+      rect:
+        serializedVersion: 2
+        x: 1873
+        y: 15
+        width: 72
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4966e53d70cd5e550800000000000000
+      internalID: 6189595189059675796
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: voldo_walk_strip18_13
+      rect:
+        serializedVersion: 2
+        x: 2039
+        y: 16
+        width: 63
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a49d6f416ea7a76f0800000000000000
+      internalID: -686100864607790774
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: voldo_walk_strip18_14
+      rect:
+        serializedVersion: 2
+        x: 2204
+        y: 16
+        width: 55
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4f7db2fe6c43f16b0800000000000000
+      internalID: -5323478205507840012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: voldo_walk_strip18_15
+      rect:
+        serializedVersion: 2
+        x: 2366
+        y: 17
+        width: 56
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 051874b73b1f3a230800000000000000
+      internalID: 3649025876269957456
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: voldo_walk_strip18_16
+      rect:
+        serializedVersion: 2
+        x: 2528
+        y: 17
+        width: 59
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 579e78c53a33f71a0800000000000000
+      internalID: -6809667334835803787
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: voldo_walk_strip18_17
+      rect:
+        serializedVersion: 2
+        x: 2690
+        y: 17
+        width: 63
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 34c28174ecbff9ea0800000000000000
+      internalID: -5863691326438495165
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: voldo_walk_strip18_18
+      rect:
+        serializedVersion: 2
+        x: 2852
+        y: 17
+        width: 68
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2f92b9c1d09e19950800000000000000
+      internalID: 6454195983522408946
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      voldo_walk_strip18_0: 8718420771958077843
+      voldo_walk_strip18_1: 2277070470498485578
+      voldo_walk_strip18_10: 4375855104108455252
+      voldo_walk_strip18_11: -2152767606013750876
+      voldo_walk_strip18_12: 6189595189059675796
+      voldo_walk_strip18_13: -686100864607790774
+      voldo_walk_strip18_14: -5323478205507840012
+      voldo_walk_strip18_15: 3649025876269957456
+      voldo_walk_strip18_16: -6809667334835803787
+      voldo_walk_strip18_17: -5863691326438495165
+      voldo_walk_strip18_18: 6454195983522408946
+      voldo_walk_strip18_2: 3223249366830736676
+      voldo_walk_strip18_3: -311126134490980507
+      voldo_walk_strip18_4: 6774885644809607295
+      voldo_walk_strip18_5: -2788384041592869147
+      voldo_walk_strip18_6: 5709224664383519560
+      voldo_walk_strip18_7: 7037252121565011215
+      voldo_walk_strip18_8: -6497110188082627212
+      voldo_walk_strip18_9: -4631096884840151385
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

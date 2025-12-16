@@ -1,0 +1,481 @@
+fileFormatVersion: 2
+guid: f136eec26215a1f4eb6fccb54b2478c0
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 8788488567535351944
+    second: gholum_crawl_strip13_0
+  - first:
+      213: 1846481776316240654
+    second: gholum_crawl_strip13_1
+  - first:
+      213: -2311576871022450462
+    second: gholum_crawl_strip13_2
+  - first:
+      213: -5975149240855859107
+    second: gholum_crawl_strip13_3
+  - first:
+      213: -3104440478291997536
+    second: gholum_crawl_strip13_4
+  - first:
+      213: -5559170434637531543
+    second: gholum_crawl_strip13_5
+  - first:
+      213: 5246904487313634640
+    second: gholum_crawl_strip13_6
+  - first:
+      213: -1385595387896728489
+    second: gholum_crawl_strip13_7
+  - first:
+      213: 3757333339047009235
+    second: gholum_crawl_strip13_8
+  - first:
+      213: -7125962716548200071
+    second: gholum_crawl_strip13_9
+  - first:
+      213: 6684134423422425100
+    second: gholum_crawl_strip13_10
+  - first:
+      213: 6086675107680362879
+    second: gholum_crawl_strip13_11
+  - first:
+      213: -2274902206081061034
+    second: gholum_crawl_strip13_12
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 16
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: gholum_crawl_strip13_0
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 5
+        width: 40
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 888b68ce9cbf6f970800000000000000
+      internalID: 8788488567535351944
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gholum_crawl_strip13_1
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 5
+        width: 36
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e03df89746500a910800000000000000
+      internalID: 1846481776316240654
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gholum_crawl_strip13_2
+      rect:
+        serializedVersion: 2
+        x: 303
+        y: 5
+        width: 33
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2e8a2b34511abefd0800000000000000
+      internalID: -2311576871022450462
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gholum_crawl_strip13_3
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 6
+        width: 31
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d5077d25c61041da0800000000000000
+      internalID: -5975149240855859107
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gholum_crawl_strip13_4
+      rect:
+        serializedVersion: 2
+        x: 561
+        y: 6
+        width: 30
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0accf0145dfcae4d0800000000000000
+      internalID: -3104440478291997536
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gholum_crawl_strip13_5
+      rect:
+        serializedVersion: 2
+        x: 688
+        y: 6
+        width: 30
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 966739581fbd9d2b0800000000000000
+      internalID: -5559170434637531543
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gholum_crawl_strip13_6
+      rect:
+        serializedVersion: 2
+        x: 815
+        y: 6
+        width: 31
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0557bb8f4dfb0d840800000000000000
+      internalID: 5246904487313634640
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gholum_crawl_strip13_7
+      rect:
+        serializedVersion: 2
+        x: 940
+        y: 6
+        width: 33
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 754fefdf55065cce0800000000000000
+      internalID: -1385595387896728489
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gholum_crawl_strip13_8
+      rect:
+        serializedVersion: 2
+        x: 1066
+        y: 6
+        width: 34
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3db11a0c3cab42430800000000000000
+      internalID: 3757333339047009235
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gholum_crawl_strip13_9
+      rect:
+        serializedVersion: 2
+        x: 1192
+        y: 5
+        width: 35
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 979877d0aae7b1d90800000000000000
+      internalID: -7125962716548200071
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gholum_crawl_strip13_10
+      rect:
+        serializedVersion: 2
+        x: 1322
+        y: 6
+        width: 33
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c08dd0318d0d2cc50800000000000000
+      internalID: 6684134423422425100
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gholum_crawl_strip13_11
+      rect:
+        serializedVersion: 2
+        x: 1450
+        y: 6
+        width: 33
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f71208803c6387450800000000000000
+      internalID: 6086675107680362879
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gholum_crawl_strip13_12
+      rect:
+        serializedVersion: 2
+        x: 1576
+        y: 6
+        width: 35
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 65f29cb1f7ced60e0800000000000000
+      internalID: -2274902206081061034
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      gholum_crawl_strip13_0: 8788488567535351944
+      gholum_crawl_strip13_1: 1846481776316240654
+      gholum_crawl_strip13_10: 6684134423422425100
+      gholum_crawl_strip13_11: 6086675107680362879
+      gholum_crawl_strip13_12: -2274902206081061034
+      gholum_crawl_strip13_2: -2311576871022450462
+      gholum_crawl_strip13_3: -5975149240855859107
+      gholum_crawl_strip13_4: -3104440478291997536
+      gholum_crawl_strip13_5: -5559170434637531543
+      gholum_crawl_strip13_6: 5246904487313634640
+      gholum_crawl_strip13_7: -1385595387896728489
+      gholum_crawl_strip13_8: 3757333339047009235
+      gholum_crawl_strip13_9: -7125962716548200071
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

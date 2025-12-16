@@ -1,0 +1,689 @@
+fileFormatVersion: 2
+guid: 46cc862959f046241bb842b118857635
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -8674025879734346916
+    second: harpy_land_strip21_0
+  - first:
+      213: -8953207410095036105
+    second: harpy_land_strip21_1
+  - first:
+      213: 1958548196896678513
+    second: harpy_land_strip21_2
+  - first:
+      213: -2868046870636511945
+    second: harpy_land_strip21_3
+  - first:
+      213: -9082783044225581952
+    second: harpy_land_strip21_4
+  - first:
+      213: 6732291481272730881
+    second: harpy_land_strip21_5
+  - first:
+      213: 8894181039218062479
+    second: harpy_land_strip21_6
+  - first:
+      213: -1668620775342045146
+    second: harpy_land_strip21_7
+  - first:
+      213: -6238126064874183994
+    second: harpy_land_strip21_8
+  - first:
+      213: 8894114071497844452
+    second: harpy_land_strip21_9
+  - first:
+      213: -6467325168039087915
+    second: harpy_land_strip21_10
+  - first:
+      213: 2657071172270153307
+    second: harpy_land_strip21_11
+  - first:
+      213: 6087664720111971224
+    second: harpy_land_strip21_12
+  - first:
+      213: -2793652895983085281
+    second: harpy_land_strip21_13
+  - first:
+      213: -3239265696152589475
+    second: harpy_land_strip21_14
+  - first:
+      213: 2299161623584759799
+    second: harpy_land_strip21_15
+  - first:
+      213: 2613512658271341731
+    second: harpy_land_strip21_16
+  - first:
+      213: -6382775665668869816
+    second: harpy_land_strip21_17
+  - first:
+      213: 3341781212216610687
+    second: harpy_land_strip21_18
+  - first:
+      213: 1938221917694859028
+    second: harpy_land_strip21_19
+  - first:
+      213: -2137209709936617520
+    second: harpy_land_strip21_20
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: harpy_land_strip21_0
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 30
+        width: 53
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c5b93e95b6baf9780800000000000000
+      internalID: -8674025879734346916
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: harpy_land_strip21_1
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 30
+        width: 53
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 739e3e0fb41dfb380800000000000000
+      internalID: -8953207410095036105
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: harpy_land_strip21_2
+      rect:
+        serializedVersion: 2
+        x: 294
+        y: 30
+        width: 53
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 172228f45392e2b10800000000000000
+      internalID: 1958548196896678513
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: harpy_land_strip21_3
+      rect:
+        serializedVersion: 2
+        x: 420
+        y: 29
+        width: 53
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 73d3a841196a238d0800000000000000
+      internalID: -2868046870636511945
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: harpy_land_strip21_4
+      rect:
+        serializedVersion: 2
+        x: 546
+        y: 28
+        width: 53
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 08c3ef4a1f873f180800000000000000
+      internalID: -9082783044225581952
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: harpy_land_strip21_5
+      rect:
+        serializedVersion: 2
+        x: 681
+        y: 40
+        width: 48
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 10546a9de67ed6d50800000000000000
+      internalID: 6732291481272730881
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: harpy_land_strip21_6
+      rect:
+        serializedVersion: 2
+        x: 813
+        y: 33
+        width: 52
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f847b92288a7e6b70800000000000000
+      internalID: 8894181039218062479
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: harpy_land_strip21_7
+      rect:
+        serializedVersion: 2
+        x: 935
+        y: 33
+        width: 54
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 62886ecde3ed7d8e0800000000000000
+      internalID: -1668620775342045146
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: harpy_land_strip21_8
+      rect:
+        serializedVersion: 2
+        x: 1057
+        y: 33
+        width: 56
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6c2a11f1569bd69a0800000000000000
+      internalID: -6238126064874183994
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: harpy_land_strip21_9
+      rect:
+        serializedVersion: 2
+        x: 1178
+        y: 33
+        width: 59
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4e6ae6fff9d3e6b70800000000000000
+      internalID: 8894114071497844452
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: harpy_land_strip21_10
+      rect:
+        serializedVersion: 2
+        x: 1305
+        y: 34
+        width: 58
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5d0361866027f36a0800000000000000
+      internalID: -6467325168039087915
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: harpy_land_strip21_11
+      rect:
+        serializedVersion: 2
+        x: 1433
+        y: 34
+        width: 57
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b5ed7164720dfd420800000000000000
+      internalID: 2657071172270153307
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: harpy_land_strip21_12
+      rect:
+        serializedVersion: 2
+        x: 1560
+        y: 34
+        width: 57
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 89ba3f12fcabb7450800000000000000
+      internalID: 6087664720111971224
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: harpy_land_strip21_13
+      rect:
+        serializedVersion: 2
+        x: 1687
+        y: 34
+        width: 57
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f19df251e73fa39d0800000000000000
+      internalID: -2793652895983085281
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: harpy_land_strip21_14
+      rect:
+        serializedVersion: 2
+        x: 1814
+        y: 34
+        width: 57
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d5b67bff201db03d0800000000000000
+      internalID: -3239265696152589475
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: harpy_land_strip21_15
+      rect:
+        serializedVersion: 2
+        x: 1941
+        y: 34
+        width: 57
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7ffdafea05348ef10800000000000000
+      internalID: 2299161623584759799
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: harpy_land_strip21_16
+      rect:
+        serializedVersion: 2
+        x: 2068
+        y: 34
+        width: 57
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3ac004c6aef054420800000000000000
+      internalID: 2613512658271341731
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: harpy_land_strip21_17
+      rect:
+        serializedVersion: 2
+        x: 2196
+        y: 34
+        width: 56
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 841bcc67953db67a0800000000000000
+      internalID: -6382775665668869816
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: harpy_land_strip21_18
+      rect:
+        serializedVersion: 2
+        x: 2323
+        y: 34
+        width: 56
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f7fce379e44606e20800000000000000
+      internalID: 3341781212216610687
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: harpy_land_strip21_19
+      rect:
+        serializedVersion: 2
+        x: 2450
+        y: 34
+        width: 55
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4171414a092f5ea10800000000000000
+      internalID: 1938221917694859028
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: harpy_land_strip21_20
+      rect:
+        serializedVersion: 2
+        x: 2577
+        y: 33
+        width: 56
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0d756bc971b1752e0800000000000000
+      internalID: -2137209709936617520
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      harpy_land_strip21_0: -8674025879734346916
+      harpy_land_strip21_1: -8953207410095036105
+      harpy_land_strip21_10: -6467325168039087915
+      harpy_land_strip21_11: 2657071172270153307
+      harpy_land_strip21_12: 6087664720111971224
+      harpy_land_strip21_13: -2793652895983085281
+      harpy_land_strip21_14: -3239265696152589475
+      harpy_land_strip21_15: 2299161623584759799
+      harpy_land_strip21_16: 2613512658271341731
+      harpy_land_strip21_17: -6382775665668869816
+      harpy_land_strip21_18: 3341781212216610687
+      harpy_land_strip21_19: 1938221917694859028
+      harpy_land_strip21_2: 1958548196896678513
+      harpy_land_strip21_20: -2137209709936617520
+      harpy_land_strip21_3: -2868046870636511945
+      harpy_land_strip21_4: -9082783044225581952
+      harpy_land_strip21_5: 6732291481272730881
+      harpy_land_strip21_6: 8894181039218062479
+      harpy_land_strip21_7: -1668620775342045146
+      harpy_land_strip21_8: -6238126064874183994
+      harpy_land_strip21_9: 8894114071497844452
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

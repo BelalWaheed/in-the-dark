@@ -1,0 +1,1001 @@
+fileFormatVersion: 2
+guid: 54b4279d2924a9740b59e494a3685661
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 868411126723698154
+    second: harpy_death_strip16_0
+  - first:
+      213: -8405274390860434575
+    second: harpy_death_strip16_1
+  - first:
+      213: -8322184577027078426
+    second: harpy_death_strip16_2
+  - first:
+      213: -4062798774869129941
+    second: harpy_death_strip16_3
+  - first:
+      213: -6953203278751587600
+    second: harpy_death_strip16_4
+  - first:
+      213: 4335851462720565864
+    second: harpy_death_strip16_5
+  - first:
+      213: 3516190767109990404
+    second: harpy_death_strip16_6
+  - first:
+      213: -7161654313297883925
+    second: harpy_death_strip16_7
+  - first:
+      213: 7494350407313428972
+    second: harpy_death_strip16_8
+  - first:
+      213: 5021914806558123394
+    second: harpy_death_strip16_9
+  - first:
+      213: 2930721441862727005
+    second: harpy_death_strip16_10
+  - first:
+      213: 8251006050958276934
+    second: harpy_death_strip16_11
+  - first:
+      213: 5131147703781376873
+    second: harpy_death_strip16_12
+  - first:
+      213: -1223865233175068282
+    second: harpy_death_strip16_13
+  - first:
+      213: 5044738033302714135
+    second: harpy_death_strip16_14
+  - first:
+      213: 2179835405412231784
+    second: harpy_death_strip16_15
+  - first:
+      213: -9088423180465195925
+    second: harpy_death_strip16_16
+  - first:
+      213: -5122006753828409967
+    second: harpy_death_strip16_17
+  - first:
+      213: -786635724755613979
+    second: harpy_death_strip16_18
+  - first:
+      213: -23014241336095263
+    second: harpy_death_strip16_19
+  - first:
+      213: 4025364131041452171
+    second: harpy_death_strip16_20
+  - first:
+      213: -1439997003330857738
+    second: harpy_death_strip16_21
+  - first:
+      213: -2496327792521906086
+    second: harpy_death_strip16_22
+  - first:
+      213: 3164133413432748143
+    second: harpy_death_strip16_23
+  - first:
+      213: -2202689394011591627
+    second: harpy_death_strip16_24
+  - first:
+      213: -5020880930443057968
+    second: harpy_death_strip16_25
+  - first:
+      213: -2791650392198047000
+    second: harpy_death_strip16_26
+  - first:
+      213: -2561608185403973875
+    second: harpy_death_strip16_27
+  - first:
+      213: 1145188895862189138
+    second: harpy_death_strip16_28
+  - first:
+      213: 6424269109391115025
+    second: harpy_death_strip16_29
+  - first:
+      213: 2661272101567363618
+    second: harpy_death_strip16_30
+  - first:
+      213: -8776751549651191409
+    second: harpy_death_strip16_31
+  - first:
+      213: -8656891701002956232
+    second: harpy_death_strip16_32
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: harpy_death_strip16_0
+      rect:
+        serializedVersion: 2
+        x: 289
+        y: 34
+        width: 59
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aeddc5791573d0c00800000000000000
+      internalID: 868411126723698154
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: harpy_death_strip16_1
+      rect:
+        serializedVersion: 2
+        x: 415
+        y: 36
+        width: 59
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 173731d79777a5b80800000000000000
+      internalID: -8405274390860434575
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: harpy_death_strip16_2
+      rect:
+        serializedVersion: 2
+        x: 544
+        y: 42
+        width: 57
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6e601135839a18c80800000000000000
+      internalID: -8322184577027078426
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: harpy_death_strip16_3
+      rect:
+        serializedVersion: 2
+        x: 671
+        y: 44
+        width: 58
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b2588063a0a0e97c0800000000000000
+      internalID: -4062798774869129941
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: harpy_death_strip16_4
+      rect:
+        serializedVersion: 2
+        x: 703
+        y: 89
+        width: 6
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0f22ee62572418f90800000000000000
+      internalID: -6953203278751587600
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: harpy_death_strip16_5
+      rect:
+        serializedVersion: 2
+        x: 930
+        y: 72
+        width: 24
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 862315adee90c2c30800000000000000
+      internalID: 4335851462720565864
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: harpy_death_strip16_6
+      rect:
+        serializedVersion: 2
+        x: 958
+        y: 79
+        width: 17
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 40869148fd40cc030800000000000000
+      internalID: 3516190767109990404
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: harpy_death_strip16_7
+      rect:
+        serializedVersion: 2
+        x: 1056
+        y: 38
+        width: 58
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bec4cbb9851bc9c90800000000000000
+      internalID: -7161654313297883925
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: harpy_death_strip16_8
+      rect:
+        serializedVersion: 2
+        x: 1183
+        y: 29
+        width: 61
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ce1983a1df7410860800000000000000
+      internalID: 7494350407313428972
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: harpy_death_strip16_9
+      rect:
+        serializedVersion: 2
+        x: 1312
+        y: 30
+        width: 58
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 285eb29c8ec61b540800000000000000
+      internalID: 5021914806558123394
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: harpy_death_strip16_10
+      rect:
+        serializedVersion: 2
+        x: 1314
+        y: 87
+        width: 15
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d5539ddaf930ca820800000000000000
+      internalID: 2930721441862727005
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: harpy_death_strip16_11
+      rect:
+        serializedVersion: 2
+        x: 1437
+        y: 31
+        width: 61
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 64977f2a946718270800000000000000
+      internalID: 8251006050958276934
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: harpy_death_strip16_12
+      rect:
+        serializedVersion: 2
+        x: 1444
+        y: 91
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 96343fd86af753740800000000000000
+      internalID: 5131147703781376873
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: harpy_death_strip16_13
+      rect:
+        serializedVersion: 2
+        x: 1450
+        y: 87
+        width: 13
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 68146a30e05f30fe0800000000000000
+      internalID: -1223865233175068282
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: harpy_death_strip16_14
+      rect:
+        serializedVersion: 2
+        x: 1557
+        y: 30
+        width: 70
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 71739eb5382820640800000000000000
+      internalID: 5044738033302714135
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: harpy_death_strip16_15
+      rect:
+        serializedVersion: 2
+        x: 1683
+        y: 56
+        width: 69
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 86a6a6080c4504e10800000000000000
+      internalID: 2179835405412231784
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: harpy_death_strip16_16
+      rect:
+        serializedVersion: 2
+        x: 1833
+        y: 75
+        width: 7
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b6432f7154f6fd180800000000000000
+      internalID: -9088423180465195925
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: harpy_death_strip16_17
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 30
+        width: 53
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 19de7e4bef9fae8b0800000000000000
+      internalID: -5122006753828409967
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: harpy_death_strip16_18
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 32
+        width: 56
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5e64f42e9fe4515f0800000000000000
+      internalID: -786635724755613979
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: harpy_death_strip16_19
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 44
+        width: 58
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1ed03606bac3eaff0800000000000000
+      internalID: -23014241336095263
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: harpy_death_strip16_20
+      rect:
+        serializedVersion: 2
+        x: 927
+        y: 42
+        width: 59
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b8023529957fcd730800000000000000
+      internalID: 4025364131041452171
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: harpy_death_strip16_21
+      rect:
+        serializedVersion: 2
+        x: 1698
+        y: 31
+        width: 42
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6f456dada5a140ce0800000000000000
+      internalID: -1439997003330857738
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: harpy_death_strip16_22
+      rect:
+        serializedVersion: 2
+        x: 1701
+        y: 67
+        width: 13
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a58fbcb49134b5dd0800000000000000
+      internalID: -2496327792521906086
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: harpy_death_strip16_23
+      rect:
+        serializedVersion: 2
+        x: 1807
+        y: 34
+        width: 63
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f686a91439249eb20800000000000000
+      internalID: 3164133413432748143
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: harpy_death_strip16_24
+      rect:
+        serializedVersion: 2
+        x: 1843
+        y: 72
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 53c2b6f9aa97e61e0800000000000000
+      internalID: -2202689394011591627
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: harpy_death_strip16_25
+      rect:
+        serializedVersion: 2
+        x: 1733
+        y: 62
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0d4a861456f325ab0800000000000000
+      internalID: -5020880930443057968
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: harpy_death_strip16_26
+      rect:
+        serializedVersion: 2
+        x: 1833
+        y: 63
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8ea94f352c01249d0800000000000000
+      internalID: -2791650392198047000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: harpy_death_strip16_27
+      rect:
+        serializedVersion: 2
+        x: 1840
+        y: 60
+        width: 7
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d0f53476de6537cd0800000000000000
+      internalID: -2561608185403973875
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: harpy_death_strip16_28
+      rect:
+        serializedVersion: 2
+        x: 1845
+        y: 56
+        width: 8
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 25c669abb3784ef00800000000000000
+      internalID: 1145188895862189138
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: harpy_death_strip16_29
+      rect:
+        serializedVersion: 2
+        x: 1868
+        y: 52
+        width: 7
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 113c5ceb7b6972950800000000000000
+      internalID: 6424269109391115025
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: harpy_death_strip16_30
+      rect:
+        serializedVersion: 2
+        x: 1957
+        y: 56
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 22a749850ecbee420800000000000000
+      internalID: 2661272101567363618
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: harpy_death_strip16_31
+      rect:
+        serializedVersion: 2
+        x: 1739
+        y: 48
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f897e2187f6b23680800000000000000
+      internalID: -8776751549651191409
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: harpy_death_strip16_32
+      rect:
+        serializedVersion: 2
+        x: 1952
+        y: 34
+        width: 42
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 83211b63dda8cd780800000000000000
+      internalID: -8656891701002956232
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      harpy_death_strip16_0: 868411126723698154
+      harpy_death_strip16_1: -8405274390860434575
+      harpy_death_strip16_10: 2930721441862727005
+      harpy_death_strip16_11: 8251006050958276934
+      harpy_death_strip16_12: 5131147703781376873
+      harpy_death_strip16_13: -1223865233175068282
+      harpy_death_strip16_14: 5044738033302714135
+      harpy_death_strip16_15: 2179835405412231784
+      harpy_death_strip16_16: -9088423180465195925
+      harpy_death_strip16_17: -5122006753828409967
+      harpy_death_strip16_18: -786635724755613979
+      harpy_death_strip16_19: -23014241336095263
+      harpy_death_strip16_2: -8322184577027078426
+      harpy_death_strip16_20: 4025364131041452171
+      harpy_death_strip16_21: -1439997003330857738
+      harpy_death_strip16_22: -2496327792521906086
+      harpy_death_strip16_23: 3164133413432748143
+      harpy_death_strip16_24: -2202689394011591627
+      harpy_death_strip16_25: -5020880930443057968
+      harpy_death_strip16_26: -2791650392198047000
+      harpy_death_strip16_27: -2561608185403973875
+      harpy_death_strip16_28: 1145188895862189138
+      harpy_death_strip16_29: 6424269109391115025
+      harpy_death_strip16_3: -4062798774869129941
+      harpy_death_strip16_30: 2661272101567363618
+      harpy_death_strip16_31: -8776751549651191409
+      harpy_death_strip16_32: -8656891701002956232
+      harpy_death_strip16_4: -6953203278751587600
+      harpy_death_strip16_5: 4335851462720565864
+      harpy_death_strip16_6: 3516190767109990404
+      harpy_death_strip16_7: -7161654313297883925
+      harpy_death_strip16_8: 7494350407313428972
+      harpy_death_strip16_9: 5021914806558123394
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

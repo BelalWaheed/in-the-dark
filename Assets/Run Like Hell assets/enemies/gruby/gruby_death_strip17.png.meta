@@ -1,0 +1,923 @@
+fileFormatVersion: 2
+guid: 3cde5c3abed00924c92686a4d0142a05
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 5633666079009228961
+    second: gruby_death_strip17_0
+  - first:
+      213: -6836519029548975074
+    second: gruby_death_strip17_1
+  - first:
+      213: 6876106042016428233
+    second: gruby_death_strip17_2
+  - first:
+      213: 3994960003813644870
+    second: gruby_death_strip17_3
+  - first:
+      213: 2910200102051958458
+    second: gruby_death_strip17_4
+  - first:
+      213: -8065846414124138766
+    second: gruby_death_strip17_5
+  - first:
+      213: -67674081554098907
+    second: gruby_death_strip17_6
+  - first:
+      213: -3654597056710761985
+    second: gruby_death_strip17_7
+  - first:
+      213: -8018221203110389454
+    second: gruby_death_strip17_8
+  - first:
+      213: -287592285953685974
+    second: gruby_death_strip17_9
+  - first:
+      213: 3216683687561354102
+    second: gruby_death_strip17_10
+  - first:
+      213: -107990596148272445
+    second: gruby_death_strip17_11
+  - first:
+      213: -1073017349428776450
+    second: gruby_death_strip17_12
+  - first:
+      213: 1404435090230012247
+    second: gruby_death_strip17_13
+  - first:
+      213: -5316447992198048138
+    second: gruby_death_strip17_14
+  - first:
+      213: 2607855923755696453
+    second: gruby_death_strip17_15
+  - first:
+      213: 287888543224525577
+    second: gruby_death_strip17_16
+  - first:
+      213: -4355235951080646270
+    second: gruby_death_strip17_17
+  - first:
+      213: -4908349452191548291
+    second: gruby_death_strip17_18
+  - first:
+      213: 7017828094405597345
+    second: gruby_death_strip17_19
+  - first:
+      213: -3482668490042054483
+    second: gruby_death_strip17_20
+  - first:
+      213: 2045008840532942128
+    second: gruby_death_strip17_21
+  - first:
+      213: 638895065104133649
+    second: gruby_death_strip17_22
+  - first:
+      213: -3967634413035752485
+    second: gruby_death_strip17_23
+  - first:
+      213: 2052869055369032424
+    second: gruby_death_strip17_24
+  - first:
+      213: -5187873013607634064
+    second: gruby_death_strip17_25
+  - first:
+      213: 7599059124215815560
+    second: gruby_death_strip17_26
+  - first:
+      213: 3828818929396185818
+    second: gruby_death_strip17_27
+  - first:
+      213: 400182507159795569
+    second: gruby_death_strip17_28
+  - first:
+      213: -4679586031458713959
+    second: gruby_death_strip17_29
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: gruby_death_strip17_0
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 11
+        width: 51
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1a8438e437dce2e40800000000000000
+      internalID: 5633666079009228961
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gruby_death_strip17_1
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 11
+        width: 53
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e1cf88ff92ecf11a0800000000000000
+      internalID: -6836519029548975074
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gruby_death_strip17_2
+      rect:
+        serializedVersion: 2
+        x: 1103
+        y: 10
+        width: 56
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9c07e489306dc6f50800000000000000
+      internalID: 6876106042016428233
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gruby_death_strip17_3
+      rect:
+        serializedVersion: 2
+        x: 1256
+        y: 65
+        width: 13
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 64a943f05f2f07730800000000000000
+      internalID: 3994960003813644870
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gruby_death_strip17_4
+      rect:
+        serializedVersion: 2
+        x: 1268
+        y: 65
+        width: 11
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: abecc1ce29b136820800000000000000
+      internalID: 2910200102051958458
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gruby_death_strip17_5
+      rect:
+        serializedVersion: 2
+        x: 1359
+        y: 10
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2feb549cb6b501090800000000000000
+      internalID: -8065846414124138766
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gruby_death_strip17_6
+      rect:
+        serializedVersion: 2
+        x: 1400
+        y: 71
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 525977808c29f0ff0800000000000000
+      internalID: -67674081554098907
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gruby_death_strip17_7
+      rect:
+        serializedVersion: 2
+        x: 1502
+        y: 10
+        width: 53
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ff1219df653484dc0800000000000000
+      internalID: -3654597056710761985
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gruby_death_strip17_8
+      rect:
+        serializedVersion: 2
+        x: 1513
+        y: 67
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 23999125c4e89b090800000000000000
+      internalID: -8018221203110389454
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gruby_death_strip17_9
+      rect:
+        serializedVersion: 2
+        x: 1533
+        y: 70
+        width: 15
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a268693f654420cf0800000000000000
+      internalID: -287592285953685974
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gruby_death_strip17_10
+      rect:
+        serializedVersion: 2
+        x: 308
+        y: 11
+        width: 54
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 67b53e765c4f3ac20800000000000000
+      internalID: 3216683687561354102
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gruby_death_strip17_11
+      rect:
+        serializedVersion: 2
+        x: 439
+        y: 11
+        width: 58
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3c2ef7dff17508ef0800000000000000
+      internalID: -107990596148272445
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gruby_death_strip17_12
+      rect:
+        serializedVersion: 2
+        x: 567
+        y: 11
+        width: 63
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ef17771e760eb11f0800000000000000
+      internalID: -1073017349428776450
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gruby_death_strip17_13
+      rect:
+        serializedVersion: 2
+        x: 982
+        y: 10
+        width: 45
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 759e047064e8d7310800000000000000
+      internalID: 1404435090230012247
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gruby_death_strip17_14
+      rect:
+        serializedVersion: 2
+        x: 1235
+        y: 10
+        width: 56
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 676523608be2836b0800000000000000
+      internalID: -5316447992198048138
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gruby_death_strip17_15
+      rect:
+        serializedVersion: 2
+        x: 1276
+        y: 62
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5414bd84527f03420800000000000000
+      internalID: 2607855923755696453
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gruby_death_strip17_16
+      rect:
+        serializedVersion: 2
+        x: 1643
+        y: 10
+        width: 44
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9037dc1da19cef300800000000000000
+      internalID: 287888543224525577
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gruby_death_strip17_17
+      rect:
+        serializedVersion: 2
+        x: 1775
+        y: 10
+        width: 44
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 289d3de3af71f83c0800000000000000
+      internalID: -4355235951080646270
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gruby_death_strip17_18
+      rect:
+        serializedVersion: 2
+        x: 1932
+        y: 44
+        width: 19
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d7cb3a4cd2a02ebb0800000000000000
+      internalID: -4908349452191548291
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gruby_death_strip17_19
+      rect:
+        serializedVersion: 2
+        x: 2043
+        y: 10
+        width: 170
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1a85dc54875546160800000000000000
+      internalID: 7017828094405597345
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gruby_death_strip17_20
+      rect:
+        serializedVersion: 2
+        x: 719
+        y: 11
+        width: 44
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: da8e894d5731bafc0800000000000000
+      internalID: -3482668490042054483
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gruby_death_strip17_21
+      rect:
+        serializedVersion: 2
+        x: 850
+        y: 10
+        width: 45
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 03ddf7e94b4516c10800000000000000
+      internalID: 2045008840532942128
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gruby_death_strip17_22
+      rect:
+        serializedVersion: 2
+        x: 1488
+        y: 30
+        width: 19
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 11e284c3dafcdd800800000000000000
+      internalID: 638895065104133649
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gruby_death_strip17_23
+      rect:
+        serializedVersion: 2
+        x: 1504
+        y: 44
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bd37364d58120f8c0800000000000000
+      internalID: -3967634413035752485
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gruby_death_strip17_24
+      rect:
+        serializedVersion: 2
+        x: 1909
+        y: 10
+        width: 42
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8e2b9af77814d7c10800000000000000
+      internalID: 2052869055369032424
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gruby_death_strip17_25
+      rect:
+        serializedVersion: 2
+        x: 1911
+        y: 44
+        width: 20
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 07be41c0bf8f008b0800000000000000
+      internalID: -5187873013607634064
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gruby_death_strip17_26
+      rect:
+        serializedVersion: 2
+        x: 1226
+        y: 26
+        width: 11
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 88d131e0308457960800000000000000
+      internalID: 7599059124215815560
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gruby_death_strip17_27
+      rect:
+        serializedVersion: 2
+        x: 1234
+        y: 26
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ada73f3c782b22530800000000000000
+      internalID: 3828818929396185818
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gruby_death_strip17_28
+      rect:
+        serializedVersion: 2
+        x: 1493
+        y: 22
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 177b598bedbbd8500800000000000000
+      internalID: 400182507159795569
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gruby_death_strip17_29
+      rect:
+        serializedVersion: 2
+        x: 2072
+        y: 15
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 99ef5034c45ce0fb0800000000000000
+      internalID: -4679586031458713959
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      gruby_death_strip17_0: 5633666079009228961
+      gruby_death_strip17_1: -6836519029548975074
+      gruby_death_strip17_10: 3216683687561354102
+      gruby_death_strip17_11: -107990596148272445
+      gruby_death_strip17_12: -1073017349428776450
+      gruby_death_strip17_13: 1404435090230012247
+      gruby_death_strip17_14: -5316447992198048138
+      gruby_death_strip17_15: 2607855923755696453
+      gruby_death_strip17_16: 287888543224525577
+      gruby_death_strip17_17: -4355235951080646270
+      gruby_death_strip17_18: -4908349452191548291
+      gruby_death_strip17_19: 7017828094405597345
+      gruby_death_strip17_2: 6876106042016428233
+      gruby_death_strip17_20: -3482668490042054483
+      gruby_death_strip17_21: 2045008840532942128
+      gruby_death_strip17_22: 638895065104133649
+      gruby_death_strip17_23: -3967634413035752485
+      gruby_death_strip17_24: 2052869055369032424
+      gruby_death_strip17_25: -5187873013607634064
+      gruby_death_strip17_26: 7599059124215815560
+      gruby_death_strip17_27: 3828818929396185818
+      gruby_death_strip17_28: 400182507159795569
+      gruby_death_strip17_29: -4679586031458713959
+      gruby_death_strip17_3: 3994960003813644870
+      gruby_death_strip17_4: 2910200102051958458
+      gruby_death_strip17_5: -8065846414124138766
+      gruby_death_strip17_6: -67674081554098907
+      gruby_death_strip17_7: -3654597056710761985
+      gruby_death_strip17_8: -8018221203110389454
+      gruby_death_strip17_9: -287592285953685974
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

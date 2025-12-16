@@ -1,0 +1,949 @@
+fileFormatVersion: 2
+guid: 2a7ba003f37663642ae5a161c151ed63
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 933177875498661230
+    second: gruby_climb_strip32_0_0
+  - first:
+      213: 3181087005480582632
+    second: gruby_climb_strip32_0_1
+  - first:
+      213: 3855782711327353748
+    second: gruby_climb_strip32_0_2
+  - first:
+      213: 9196394284381769658
+    second: gruby_climb_strip32_0_3
+  - first:
+      213: 2672704869677618639
+    second: gruby_climb_strip32_0_4
+  - first:
+      213: 7956340898648151544
+    second: gruby_climb_strip32_0_5
+  - first:
+      213: -6401871595485112047
+    second: gruby_climb_strip32_0_6
+  - first:
+      213: 3404108434969133959
+    second: gruby_climb_strip32_0_7
+  - first:
+      213: 5762363873625139788
+    second: gruby_climb_strip32_0_8
+  - first:
+      213: 193292001503830173
+    second: gruby_climb_strip32_0_9
+  - first:
+      213: -3240051335893575034
+    second: gruby_climb_strip32_0_10
+  - first:
+      213: 2263686419538484722
+    second: gruby_climb_strip32_0_11
+  - first:
+      213: -6338504804682650927
+    second: gruby_climb_strip32_0_12
+  - first:
+      213: -8933506998569319386
+    second: gruby_climb_strip32_0_13
+  - first:
+      213: -7604501852077748182
+    second: gruby_climb_strip32_0_14
+  - first:
+      213: 7337747756373143480
+    second: gruby_climb_strip32_0_15
+  - first:
+      213: -6053520350642687905
+    second: gruby_climb_strip32_0_16
+  - first:
+      213: -7214293425099082377
+    second: gruby_climb_strip32_0_17
+  - first:
+      213: -5382354499674796036
+    second: gruby_climb_strip32_0_18
+  - first:
+      213: 6549209928392894916
+    second: gruby_climb_strip32_0_19
+  - first:
+      213: -761430938844250028
+    second: gruby_climb_strip32_0_20
+  - first:
+      213: -4727252515586671794
+    second: gruby_climb_strip32_0_21
+  - first:
+      213: 1467236535643751487
+    second: gruby_climb_strip32_0_22
+  - first:
+      213: 3481002033396768423
+    second: gruby_climb_strip32_0_23
+  - first:
+      213: 5740336992100133933
+    second: gruby_climb_strip32_0_24
+  - first:
+      213: 8587754124356786170
+    second: gruby_climb_strip32_0_25
+  - first:
+      213: -7067797673431604340
+    second: gruby_climb_strip32_0_26
+  - first:
+      213: 3941180767501345864
+    second: gruby_climb_strip32_0_27
+  - first:
+      213: 371528974560562844
+    second: gruby_climb_strip32_0_28
+  - first:
+      213: -5993969046986773439
+    second: gruby_climb_strip32_0_29
+  - first:
+      213: -2018279746791943307
+    second: gruby_climb_strip32_0_30
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: gruby_climb_strip32_0_0
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 11
+        width: 55
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e65f955655053fc00800000000000000
+      internalID: 933177875498661230
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gruby_climb_strip32_0_1
+      rect:
+        serializedVersion: 2
+        x: 177
+        y: 11
+        width: 52
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8edf74107cd752c20800000000000000
+      internalID: 3181087005480582632
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gruby_climb_strip32_0_2
+      rect:
+        serializedVersion: 2
+        x: 314
+        y: 11
+        width: 46
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 49b62c772fd728530800000000000000
+      internalID: 3855782711327353748
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gruby_climb_strip32_0_3
+      rect:
+        serializedVersion: 2
+        x: 445
+        y: 11
+        width: 44
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: abf020780e720af70800000000000000
+      internalID: 9196394284381769658
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gruby_climb_strip32_0_4
+      rect:
+        serializedVersion: 2
+        x: 579
+        y: 11
+        width: 44
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fc5579a1bea571520800000000000000
+      internalID: 2672704869677618639
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gruby_climb_strip32_0_5
+      rect:
+        serializedVersion: 2
+        x: 713
+        y: 11
+        width: 44
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8f5d5df84e99a6e60800000000000000
+      internalID: 7956340898648151544
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gruby_climb_strip32_0_6
+      rect:
+        serializedVersion: 2
+        x: 847
+        y: 11
+        width: 39
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1195275d3bbf727a0800000000000000
+      internalID: -6401871595485112047
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gruby_climb_strip32_0_7
+      rect:
+        serializedVersion: 2
+        x: 979
+        y: 11
+        width: 42
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7830f3bf592dd3f20800000000000000
+      internalID: 3404108434969133959
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gruby_climb_strip32_0_8
+      rect:
+        serializedVersion: 2
+        x: 1111
+        y: 12
+        width: 47
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c4a68f9a96708ff40800000000000000
+      internalID: 5762363873625139788
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gruby_climb_strip32_0_9
+      rect:
+        serializedVersion: 2
+        x: 1243
+        y: 13
+        width: 53
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d906f8f1d06bea200800000000000000
+      internalID: 193292001503830173
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gruby_climb_strip32_0_10
+      rect:
+        serializedVersion: 2
+        x: 1374
+        y: 13
+        width: 45
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 68a980ef9760903d0800000000000000
+      internalID: -3240051335893575034
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gruby_climb_strip32_0_11
+      rect:
+        serializedVersion: 2
+        x: 1504
+        y: 13
+        width: 41
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2fd97771eca3a6f10800000000000000
+      internalID: 2263686419538484722
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gruby_climb_strip32_0_12
+      rect:
+        serializedVersion: 2
+        x: 1635
+        y: 14
+        width: 42
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1daa8c5867b1908a0800000000000000
+      internalID: -6338504804682650927
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gruby_climb_strip32_0_13
+      rect:
+        serializedVersion: 2
+        x: 1768
+        y: 13
+        width: 41
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6244fcf67bec50480800000000000000
+      internalID: -8933506998569319386
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gruby_climb_strip32_0_14
+      rect:
+        serializedVersion: 2
+        x: 1901
+        y: 12
+        width: 40
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a201b1d1bd1677690800000000000000
+      internalID: -7604501852077748182
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gruby_climb_strip32_0_15
+      rect:
+        serializedVersion: 2
+        x: 2034
+        y: 11
+        width: 39
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8bf6a0615bae4d560800000000000000
+      internalID: 7337747756373143480
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gruby_climb_strip32_0_16
+      rect:
+        serializedVersion: 2
+        x: 2167
+        y: 11
+        width: 38
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f50385360539dfba0800000000000000
+      internalID: -6053520350642687905
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gruby_climb_strip32_0_17
+      rect:
+        serializedVersion: 2
+        x: 2299
+        y: 11
+        width: 38
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 77578835a5ea1eb90800000000000000
+      internalID: -7214293425099082377
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gruby_climb_strip32_0_18
+      rect:
+        serializedVersion: 2
+        x: 2431
+        y: 8
+        width: 38
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cff88a779190e45b0800000000000000
+      internalID: -5382354499674796036
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gruby_climb_strip32_0_19
+      rect:
+        serializedVersion: 2
+        x: 2565
+        y: 10
+        width: 38
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4c9e15d0bb773ea50800000000000000
+      internalID: 6549209928392894916
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gruby_climb_strip32_0_20
+      rect:
+        serializedVersion: 2
+        x: 2698
+        y: 11
+        width: 39
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4504239689ade65f0800000000000000
+      internalID: -761430938844250028
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gruby_climb_strip32_0_21
+      rect:
+        serializedVersion: 2
+        x: 2829
+        y: 11
+        width: 44
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e4b72e412ec656eb0800000000000000
+      internalID: -4727252515586671794
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gruby_climb_strip32_0_22
+      rect:
+        serializedVersion: 2
+        x: 2965
+        y: 11
+        width: 40
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f34458cfadbac5410800000000000000
+      internalID: 1467236535643751487
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gruby_climb_strip32_0_23
+      rect:
+        serializedVersion: 2
+        x: 3101
+        y: 11
+        width: 38
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7aed60ff7e00f4030800000000000000
+      internalID: 3481002033396768423
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gruby_climb_strip32_0_24
+      rect:
+        serializedVersion: 2
+        x: 3236
+        y: 11
+        width: 37
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d2ca929a416c9af40800000000000000
+      internalID: 5740336992100133933
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gruby_climb_strip32_0_25
+      rect:
+        serializedVersion: 2
+        x: 3363
+        y: 11
+        width: 38
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: af79ea050e4dd2770800000000000000
+      internalID: 8587754124356786170
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gruby_climb_strip32_0_26
+      rect:
+        serializedVersion: 2
+        x: 3487
+        y: 11
+        width: 44
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c83e6ca76732aed90800000000000000
+      internalID: -7067797673431604340
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gruby_climb_strip32_0_27
+      rect:
+        serializedVersion: 2
+        x: 3611
+        y: 11
+        width: 50
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 844e48ad603e1b630800000000000000
+      internalID: 3941180767501345864
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gruby_climb_strip32_0_28
+      rect:
+        serializedVersion: 2
+        x: 3742
+        y: 11
+        width: 51
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c9e827842afe72500800000000000000
+      internalID: 371528974560562844
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gruby_climb_strip32_0_29
+      rect:
+        serializedVersion: 2
+        x: 3872
+        y: 11
+        width: 51
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 14caaafb8e421dca0800000000000000
+      internalID: -5993969046986773439
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gruby_climb_strip32_0_30
+      rect:
+        serializedVersion: 2
+        x: 4003
+        y: 11
+        width: 51
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 573d91b7341adf3e0800000000000000
+      internalID: -2018279746791943307
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      gruby_climb_strip32_0_0: 933177875498661230
+      gruby_climb_strip32_0_1: 3181087005480582632
+      gruby_climb_strip32_0_10: -3240051335893575034
+      gruby_climb_strip32_0_11: 2263686419538484722
+      gruby_climb_strip32_0_12: -6338504804682650927
+      gruby_climb_strip32_0_13: -8933506998569319386
+      gruby_climb_strip32_0_14: -7604501852077748182
+      gruby_climb_strip32_0_15: 7337747756373143480
+      gruby_climb_strip32_0_16: -6053520350642687905
+      gruby_climb_strip32_0_17: -7214293425099082377
+      gruby_climb_strip32_0_18: -5382354499674796036
+      gruby_climb_strip32_0_19: 6549209928392894916
+      gruby_climb_strip32_0_2: 3855782711327353748
+      gruby_climb_strip32_0_20: -761430938844250028
+      gruby_climb_strip32_0_21: -4727252515586671794
+      gruby_climb_strip32_0_22: 1467236535643751487
+      gruby_climb_strip32_0_23: 3481002033396768423
+      gruby_climb_strip32_0_24: 5740336992100133933
+      gruby_climb_strip32_0_25: 8587754124356786170
+      gruby_climb_strip32_0_26: -7067797673431604340
+      gruby_climb_strip32_0_27: 3941180767501345864
+      gruby_climb_strip32_0_28: 371528974560562844
+      gruby_climb_strip32_0_29: -5993969046986773439
+      gruby_climb_strip32_0_3: 9196394284381769658
+      gruby_climb_strip32_0_30: -2018279746791943307
+      gruby_climb_strip32_0_4: 2672704869677618639
+      gruby_climb_strip32_0_5: 7956340898648151544
+      gruby_climb_strip32_0_6: -6401871595485112047
+      gruby_climb_strip32_0_7: 3404108434969133959
+      gruby_climb_strip32_0_8: 5762363873625139788
+      gruby_climb_strip32_0_9: 193292001503830173
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

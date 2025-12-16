@@ -1,0 +1,741 @@
+fileFormatVersion: 2
+guid: b9d4794f7788c71419e161cec414d34b
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 4868304848023005176
+    second: gruby_port_strip21_0
+  - first:
+      213: 5904263777813710736
+    second: gruby_port_strip21_1
+  - first:
+      213: -705930212307788766
+    second: gruby_port_strip21_2
+  - first:
+      213: -5181880289142670894
+    second: gruby_port_strip21_3
+  - first:
+      213: -5197645946497919943
+    second: gruby_port_strip21_4
+  - first:
+      213: 7434350183742642646
+    second: gruby_port_strip21_5
+  - first:
+      213: 1479672237374191165
+    second: gruby_port_strip21_6
+  - first:
+      213: -3289543481086515597
+    second: gruby_port_strip21_7
+  - first:
+      213: 2654845787825421700
+    second: gruby_port_strip21_8
+  - first:
+      213: 6979588272241835542
+    second: gruby_port_strip21_9
+  - first:
+      213: 4087803381327942649
+    second: gruby_port_strip21_10
+  - first:
+      213: -4537920545865873458
+    second: gruby_port_strip21_11
+  - first:
+      213: 8700003555437050372
+    second: gruby_port_strip21_12
+  - first:
+      213: 3489560989458643731
+    second: gruby_port_strip21_13
+  - first:
+      213: 1521539126567721141
+    second: gruby_port_strip21_14
+  - first:
+      213: 7787876732005083753
+    second: gruby_port_strip21_15
+  - first:
+      213: 9218988357461714497
+    second: gruby_port_strip21_16
+  - first:
+      213: -6445800025954236203
+    second: gruby_port_strip21_17
+  - first:
+      213: 4726044798418265363
+    second: gruby_port_strip21_18
+  - first:
+      213: 3456744167409298333
+    second: gruby_port_strip21_19
+  - first:
+      213: 8787729354244650401
+    second: gruby_port_strip21_20
+  - first:
+      213: -1489754910651075784
+    second: gruby_port_strip21_21
+  - first:
+      213: -5028456459511972533
+    second: gruby_port_strip21_22
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: gruby_port_strip21_0
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 11
+        width: 50
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8f729b44771bf8340800000000000000
+      internalID: 4868304848023005176
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gruby_port_strip21_1
+      rect:
+        serializedVersion: 2
+        x: 172
+        y: 11
+        width: 54
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 097cac0bf9820f150800000000000000
+      internalID: 5904263777813710736
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gruby_port_strip21_2
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 11
+        width: 59
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 22c9d2b46380436f0800000000000000
+      internalID: -705930212307788766
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gruby_port_strip21_3
+      rect:
+        serializedVersion: 2
+        x: 429
+        y: 11
+        width: 64
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2d97d01f4534618b0800000000000000
+      internalID: -5181880289142670894
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gruby_port_strip21_4
+      rect:
+        serializedVersion: 2
+        x: 557
+        y: 11
+        width: 70
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9341ebacc804ed7b0800000000000000
+      internalID: -5197645946497919943
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gruby_port_strip21_5
+      rect:
+        serializedVersion: 2
+        x: 694
+        y: 11
+        width: 57
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6d917dd6a1e1c2760800000000000000
+      internalID: 7434350183742642646
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gruby_port_strip21_6
+      rect:
+        serializedVersion: 2
+        x: 827
+        y: 9
+        width: 58
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d3632bc6f0ad88410800000000000000
+      internalID: 1479672237374191165
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gruby_port_strip21_7
+      rect:
+        serializedVersion: 2
+        x: 962
+        y: 11
+        width: 51
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 376e2a8f1a13952d0800000000000000
+      internalID: -3289543481086515597
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gruby_port_strip21_8
+      rect:
+        serializedVersion: 2
+        x: 1100
+        y: 11
+        width: 43
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 48db6c49d28e7d420800000000000000
+      internalID: 2654845787825421700
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gruby_port_strip21_9
+      rect:
+        serializedVersion: 2
+        x: 1231
+        y: 11
+        width: 44
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 61ef47ddd8a7cd060800000000000000
+      internalID: 6979588272241835542
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gruby_port_strip21_10
+      rect:
+        serializedVersion: 2
+        x: 1366
+        y: 11
+        width: 41
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9f351b7648bcab830800000000000000
+      internalID: 4087803381327942649
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gruby_port_strip21_11
+      rect:
+        serializedVersion: 2
+        x: 1498
+        y: 11
+        width: 41
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ec7c7b47e411601c0800000000000000
+      internalID: -4537920545865873458
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gruby_port_strip21_12
+      rect:
+        serializedVersion: 2
+        x: 1631
+        y: 11
+        width: 40
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 40af57a932f9cb870800000000000000
+      internalID: 8700003555437050372
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gruby_port_strip21_13
+      rect:
+        serializedVersion: 2
+        x: 1763
+        y: 11
+        width: 36
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 31b3ebe3b396d6030800000000000000
+      internalID: 3489560989458643731
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gruby_port_strip21_14
+      rect:
+        serializedVersion: 2
+        x: 1895
+        y: 11
+        width: 36
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5b85dee26c79d1510800000000000000
+      internalID: 1521539126567721141
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gruby_port_strip21_15
+      rect:
+        serializedVersion: 2
+        x: 2027
+        y: 11
+        width: 36
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 96a61b530a8141c60800000000000000
+      internalID: 7787876732005083753
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gruby_port_strip21_16
+      rect:
+        serializedVersion: 2
+        x: 2161
+        y: 11
+        width: 31
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 146a7fa111d60ff70800000000000000
+      internalID: 9218988357461714497
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gruby_port_strip21_17
+      rect:
+        serializedVersion: 2
+        x: 2293
+        y: 11
+        width: 10
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5d84bc7170beb86a0800000000000000
+      internalID: -6445800025954236203
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gruby_port_strip21_18
+      rect:
+        serializedVersion: 2
+        x: 2296
+        y: 11
+        width: 25
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 315ad4a54b8469140800000000000000
+      internalID: 4726044798418265363
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gruby_port_strip21_19
+      rect:
+        serializedVersion: 2
+        x: 2425
+        y: 11
+        width: 7
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d9ba5d17182d8ff20800000000000000
+      internalID: 3456744167409298333
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gruby_port_strip21_20
+      rect:
+        serializedVersion: 2
+        x: 2428
+        y: 11
+        width: 24
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1a5760ec94944f970800000000000000
+      internalID: 8787729354244650401
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gruby_port_strip21_21
+      rect:
+        serializedVersion: 2
+        x: 2557
+        y: 11
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 833bf344dc3535be0800000000000000
+      internalID: -1489754910651075784
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gruby_port_strip21_22
+      rect:
+        serializedVersion: 2
+        x: 2560
+        y: 11
+        width: 154
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b4d3542fd75573ab0800000000000000
+      internalID: -5028456459511972533
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      gruby_port_strip21_0: 4868304848023005176
+      gruby_port_strip21_1: 5904263777813710736
+      gruby_port_strip21_10: 4087803381327942649
+      gruby_port_strip21_11: -4537920545865873458
+      gruby_port_strip21_12: 8700003555437050372
+      gruby_port_strip21_13: 3489560989458643731
+      gruby_port_strip21_14: 1521539126567721141
+      gruby_port_strip21_15: 7787876732005083753
+      gruby_port_strip21_16: 9218988357461714497
+      gruby_port_strip21_17: -6445800025954236203
+      gruby_port_strip21_18: 4726044798418265363
+      gruby_port_strip21_19: 3456744167409298333
+      gruby_port_strip21_2: -705930212307788766
+      gruby_port_strip21_20: 8787729354244650401
+      gruby_port_strip21_21: -1489754910651075784
+      gruby_port_strip21_22: -5028456459511972533
+      gruby_port_strip21_3: -5181880289142670894
+      gruby_port_strip21_4: -5197645946497919943
+      gruby_port_strip21_5: 7434350183742642646
+      gruby_port_strip21_6: 1479672237374191165
+      gruby_port_strip21_7: -3289543481086515597
+      gruby_port_strip21_8: 2654845787825421700
+      gruby_port_strip21_9: 6979588272241835542
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

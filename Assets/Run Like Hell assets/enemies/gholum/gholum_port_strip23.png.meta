@@ -1,0 +1,1417 @@
+fileFormatVersion: 2
+guid: b79072fed275db9468acd1dd36221148
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -6395844429335625492
+    second: gholum_port_strip23_0
+  - first:
+      213: -3005956124989884065
+    second: gholum_port_strip23_1
+  - first:
+      213: -6024406458327641311
+    second: gholum_port_strip23_2
+  - first:
+      213: -8929116987040575523
+    second: gholum_port_strip23_3
+  - first:
+      213: -2448871167937052119
+    second: gholum_port_strip23_4
+  - first:
+      213: -3740521502429869453
+    second: gholum_port_strip23_5
+  - first:
+      213: -3617797126063971897
+    second: gholum_port_strip23_6
+  - first:
+      213: -5485448101431892973
+    second: gholum_port_strip23_7
+  - first:
+      213: 9082545590314464860
+    second: gholum_port_strip23_8
+  - first:
+      213: 8143952350182740611
+    second: gholum_port_strip23_9
+  - first:
+      213: 1385225444114056332
+    second: gholum_port_strip23_10
+  - first:
+      213: -7555292903617023884
+    second: gholum_port_strip23_11
+  - first:
+      213: 8708245949602233345
+    second: gholum_port_strip23_12
+  - first:
+      213: 734526475545865545
+    second: gholum_port_strip23_13
+  - first:
+      213: 1468582069017289206
+    second: gholum_port_strip23_14
+  - first:
+      213: -4208688710346937725
+    second: gholum_port_strip23_15
+  - first:
+      213: -1481655592164298663
+    second: gholum_port_strip23_16
+  - first:
+      213: 6800424312995608357
+    second: gholum_port_strip23_17
+  - first:
+      213: 2617885128162246353
+    second: gholum_port_strip23_18
+  - first:
+      213: 3389194425310425647
+    second: gholum_port_strip23_19
+  - first:
+      213: -7514605907110150555
+    second: gholum_port_strip23_20
+  - first:
+      213: -496519650254407933
+    second: gholum_port_strip23_21
+  - first:
+      213: -593964606570920501
+    second: gholum_port_strip23_22
+  - first:
+      213: 5550887456723695342
+    second: gholum_port_strip23_23
+  - first:
+      213: 4979379281614545551
+    second: gholum_port_strip23_24
+  - first:
+      213: 1708832609199153330
+    second: gholum_port_strip23_25
+  - first:
+      213: 2659529293761549357
+    second: gholum_port_strip23_26
+  - first:
+      213: -1792414869473368263
+    second: gholum_port_strip23_27
+  - first:
+      213: 2821390415835725227
+    second: gholum_port_strip23_28
+  - first:
+      213: -3395480374195123052
+    second: gholum_port_strip23_29
+  - first:
+      213: -7659518401387032369
+    second: gholum_port_strip23_30
+  - first:
+      213: 6615767971500000723
+    second: gholum_port_strip23_31
+  - first:
+      213: 2549366573419558194
+    second: gholum_port_strip23_32
+  - first:
+      213: -8606046764825763064
+    second: gholum_port_strip23_33
+  - first:
+      213: 2531017109537432902
+    second: gholum_port_strip23_34
+  - first:
+      213: 2460104040260823960
+    second: gholum_port_strip23_35
+  - first:
+      213: 4437988560863043045
+    second: gholum_port_strip23_36
+  - first:
+      213: -9026429256897306047
+    second: gholum_port_strip23_37
+  - first:
+      213: -7495220167701206573
+    second: gholum_port_strip23_38
+  - first:
+      213: 6768249980154200257
+    second: gholum_port_strip23_39
+  - first:
+      213: 1988234183738930835
+    second: gholum_port_strip23_40
+  - first:
+      213: -2134564691869059244
+    second: gholum_port_strip23_41
+  - first:
+      213: 3105888930990080806
+    second: gholum_port_strip23_42
+  - first:
+      213: 5034725598923346979
+    second: gholum_port_strip23_43
+  - first:
+      213: -3926794391391078289
+    second: gholum_port_strip23_44
+  - first:
+      213: 4556235860521337816
+    second: gholum_port_strip23_45
+  - first:
+      213: 6271264127883202084
+    second: gholum_port_strip23_46
+  - first:
+      213: 8121698752859662679
+    second: gholum_port_strip23_47
+  - first:
+      213: -418904910719864150
+    second: gholum_port_strip23_48
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 16
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: gholum_port_strip23_0
+      rect:
+        serializedVersion: 2
+        x: 58
+        y: 12
+        width: 34
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ce00acec0656d37a0800000000000000
+      internalID: -6395844429335625492
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gholum_port_strip23_1
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 42
+        width: 8
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f59719f94d2b846d0800000000000000
+      internalID: -3005956124989884065
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gholum_port_strip23_2
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 42
+        width: 8
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 123dfccae32056ca0800000000000000
+      internalID: -6024406458327641311
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gholum_port_strip23_3
+      rect:
+        serializedVersion: 2
+        x: 460
+        y: 44
+        width: 11
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ddf4a85a867651480800000000000000
+      internalID: -8929116987040575523
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gholum_port_strip23_4
+      rect:
+        serializedVersion: 2
+        x: 592
+        y: 34
+        width: 7
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9228a6eb5acd30ed0800000000000000
+      internalID: -2448871167937052119
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gholum_port_strip23_5
+      rect:
+        serializedVersion: 2
+        x: 681
+        y: 3
+        width: 46
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 37a05fcf28ff61cc0800000000000000
+      internalID: -3740521502429869453
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gholum_port_strip23_6
+      rect:
+        serializedVersion: 2
+        x: 717
+        y: 42
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7c127878ea00bcdc0800000000000000
+      internalID: -3617797126063971897
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gholum_port_strip23_7
+      rect:
+        serializedVersion: 2
+        x: 813
+        y: 4
+        width: 41
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 314af40d306cfd3b0800000000000000
+      internalID: -5485448101431892973
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gholum_port_strip23_8
+      rect:
+        serializedVersion: 2
+        x: 819
+        y: 44
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c56fbfec71fab0e70800000000000000
+      internalID: 9082545590314464860
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gholum_port_strip23_9
+      rect:
+        serializedVersion: 2
+        x: 936
+        y: 4
+        width: 50
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 38299549381250170800000000000000
+      internalID: 8143952350182740611
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gholum_port_strip23_10
+      rect:
+        serializedVersion: 2
+        x: 948
+        y: 41
+        width: 8
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c844042c33f493310800000000000000
+      internalID: 1385225444114056332
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gholum_port_strip23_11
+      rect:
+        serializedVersion: 2
+        x: 1190
+        y: 4
+        width: 52
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 470b0e14225362790800000000000000
+      internalID: -7555292903617023884
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gholum_port_strip23_12
+      rect:
+        serializedVersion: 2
+        x: 1214
+        y: 48
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 10c76ca8d87e9d870800000000000000
+      internalID: 8708245949602233345
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gholum_port_strip23_13
+      rect:
+        serializedVersion: 2
+        x: 1214
+        y: 39
+        width: 14
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 94de70510ff813a00800000000000000
+      internalID: 734526475545865545
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gholum_port_strip23_14
+      rect:
+        serializedVersion: 2
+        x: 1341
+        y: 48
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6f1a8436c93716410800000000000000
+      internalID: 1468582069017289206
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gholum_port_strip23_15
+      rect:
+        serializedVersion: 2
+        x: 1341
+        y: 39
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 38ae291aaebb795c0800000000000000
+      internalID: -4208688710346937725
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gholum_port_strip23_16
+      rect:
+        serializedVersion: 2
+        x: 1445
+        y: 3
+        width: 41
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 950739dc61a107be0800000000000000
+      internalID: -1481655592164298663
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gholum_port_strip23_17
+      rect:
+        serializedVersion: 2
+        x: 1572
+        y: 4
+        width: 41
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 527780ae1e5ff5e50800000000000000
+      internalID: 6800424312995608357
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gholum_port_strip23_18
+      rect:
+        serializedVersion: 2
+        x: 1689
+        y: 4
+        width: 47
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1de73e667a8945420800000000000000
+      internalID: 2617885128162246353
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gholum_port_strip23_19
+      rect:
+        serializedVersion: 2
+        x: 1816
+        y: 4
+        width: 46
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f22bc538f56d80f20800000000000000
+      internalID: 3389194425310425647
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gholum_port_strip23_20
+      rect:
+        serializedVersion: 2
+        x: 1944
+        y: 4
+        width: 43
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 56eb5a7ddb1c6b790800000000000000
+      internalID: -7514605907110150555
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gholum_port_strip23_21
+      rect:
+        serializedVersion: 2
+        x: 2069
+        y: 4
+        width: 42
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 307b59e32020c19f0800000000000000
+      internalID: -496519650254407933
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gholum_port_strip23_22
+      rect:
+        serializedVersion: 2
+        x: 2200
+        y: 4
+        width: 40
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bc58f285650d1c7f0800000000000000
+      internalID: -593964606570920501
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gholum_port_strip23_23
+      rect:
+        serializedVersion: 2
+        x: 2332
+        y: 4
+        width: 35
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ee6ff266bb6b80d40800000000000000
+      internalID: 5550887456723695342
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gholum_port_strip23_24
+      rect:
+        serializedVersion: 2
+        x: 2462
+        y: 4
+        width: 32
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f822392231f4a1540800000000000000
+      internalID: 4979379281614545551
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gholum_port_strip23_25
+      rect:
+        serializedVersion: 2
+        x: 2590
+        y: 4
+        width: 31
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2b06beb443ef6b710800000000000000
+      internalID: 1708832609199153330
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gholum_port_strip23_26
+      rect:
+        serializedVersion: 2
+        x: 185
+        y: 5
+        width: 31
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d2417684dcb88e420800000000000000
+      internalID: 2659529293761549357
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gholum_port_strip23_27
+      rect:
+        serializedVersion: 2
+        x: 312
+        y: 5
+        width: 31
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 93769ee3c201027e0800000000000000
+      internalID: -1792414869473368263
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gholum_port_strip23_28
+      rect:
+        serializedVersion: 2
+        x: 438
+        y: 22
+        width: 26
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bad749482a7972720800000000000000
+      internalID: 2821390415835725227
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gholum_port_strip23_29
+      rect:
+        serializedVersion: 2
+        x: 465
+        y: 38
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 49c0a46f694d0e0d0800000000000000
+      internalID: -3395480374195123052
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gholum_port_strip23_30
+      rect:
+        serializedVersion: 2
+        x: 566
+        y: 23
+        width: 11
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fc012c6889ce3b590800000000000000
+      internalID: -7659518401387032369
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gholum_port_strip23_31
+      rect:
+        serializedVersion: 2
+        x: 808
+        y: 35
+        width: 12
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3d50aa11bedefcb50800000000000000
+      internalID: 6615767971500000723
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gholum_port_strip23_32
+      rect:
+        serializedVersion: 2
+        x: 936
+        y: 32
+        width: 11
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2357de2346b216320800000000000000
+      internalID: 2549366573419558194
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gholum_port_strip23_33
+      rect:
+        serializedVersion: 2
+        x: 952
+        y: 36
+        width: 11
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 803292e601e219880800000000000000
+      internalID: -8606046764825763064
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gholum_port_strip23_34
+      rect:
+        serializedVersion: 2
+        x: 1066
+        y: 5
+        width: 47
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6452a66b6aaff1320800000000000000
+      internalID: 2531017109537432902
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gholum_port_strip23_35
+      rect:
+        serializedVersion: 2
+        x: 1078
+        y: 36
+        width: 12
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 89bef36279b042220800000000000000
+      internalID: 2460104040260823960
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gholum_port_strip23_36
+      rect:
+        serializedVersion: 2
+        x: 1320
+        y: 31
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5ed1d772517e69d30800000000000000
+      internalID: 4437988560863043045
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gholum_port_strip23_37
+      rect:
+        serializedVersion: 2
+        x: 1322
+        y: 4
+        width: 45
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 14261783a6eabb280800000000000000
+      internalID: -9026429256897306047
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gholum_port_strip23_38
+      rect:
+        serializedVersion: 2
+        x: 1448
+        y: 31
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3d963d608f0abf790800000000000000
+      internalID: -7495220167701206573
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gholum_port_strip23_39
+      rect:
+        serializedVersion: 2
+        x: 1817
+        y: 33
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1c0c22a4f77aded50800000000000000
+      internalID: 6768249980154200257
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gholum_port_strip23_40
+      rect:
+        serializedVersion: 2
+        x: 2717
+        y: 4
+        width: 31
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3963c0cb470a79b10800000000000000
+      internalID: 1988234183738930835
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gholum_port_strip23_41
+      rect:
+        serializedVersion: 2
+        x: 2844
+        y: 4
+        width: 31
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 457bd0fd8b08062e0800000000000000
+      internalID: -2134564691869059244
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gholum_port_strip23_42
+      rect:
+        serializedVersion: 2
+        x: 437
+        y: 30
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6234b7be6855a1b20800000000000000
+      internalID: 3105888930990080806
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gholum_port_strip23_43
+      rect:
+        serializedVersion: 2
+        x: 808
+        y: 25
+        width: 7
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3245461d140fed540800000000000000
+      internalID: 5034725598923346979
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gholum_port_strip23_44
+      rect:
+        serializedVersion: 2
+        x: 935
+        y: 25
+        width: 7
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f68732b5e493189c0800000000000000
+      internalID: -3926794391391078289
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gholum_port_strip23_45
+      rect:
+        serializedVersion: 2
+        x: 59
+        y: 13
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8d3454b00600b3f30800000000000000
+      internalID: 4556235860521337816
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gholum_port_strip23_46
+      rect:
+        serializedVersion: 2
+        x: 436
+        y: 5
+        width: 32
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 42ec02b6f71080750800000000000000
+      internalID: 6271264127883202084
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gholum_port_strip23_47
+      rect:
+        serializedVersion: 2
+        x: 561
+        y: 5
+        width: 36
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 759eee03cf116b070800000000000000
+      internalID: 8121698752859662679
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gholum_port_strip23_48
+      rect:
+        serializedVersion: 2
+        x: 59
+        y: 5
+        width: 24
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aa230e10430cf2af0800000000000000
+      internalID: -418904910719864150
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      gholum_port_strip23_0: -6395844429335625492
+      gholum_port_strip23_1: -3005956124989884065
+      gholum_port_strip23_10: 1385225444114056332
+      gholum_port_strip23_11: -7555292903617023884
+      gholum_port_strip23_12: 8708245949602233345
+      gholum_port_strip23_13: 734526475545865545
+      gholum_port_strip23_14: 1468582069017289206
+      gholum_port_strip23_15: -4208688710346937725
+      gholum_port_strip23_16: -1481655592164298663
+      gholum_port_strip23_17: 6800424312995608357
+      gholum_port_strip23_18: 2617885128162246353
+      gholum_port_strip23_19: 3389194425310425647
+      gholum_port_strip23_2: -6024406458327641311
+      gholum_port_strip23_20: -7514605907110150555
+      gholum_port_strip23_21: -496519650254407933
+      gholum_port_strip23_22: -593964606570920501
+      gholum_port_strip23_23: 5550887456723695342
+      gholum_port_strip23_24: 4979379281614545551
+      gholum_port_strip23_25: 1708832609199153330
+      gholum_port_strip23_26: 2659529293761549357
+      gholum_port_strip23_27: -1792414869473368263
+      gholum_port_strip23_28: 2821390415835725227
+      gholum_port_strip23_29: -3395480374195123052
+      gholum_port_strip23_3: -8929116987040575523
+      gholum_port_strip23_30: -7659518401387032369
+      gholum_port_strip23_31: 6615767971500000723
+      gholum_port_strip23_32: 2549366573419558194
+      gholum_port_strip23_33: -8606046764825763064
+      gholum_port_strip23_34: 2531017109537432902
+      gholum_port_strip23_35: 2460104040260823960
+      gholum_port_strip23_36: 4437988560863043045
+      gholum_port_strip23_37: -9026429256897306047
+      gholum_port_strip23_38: -7495220167701206573
+      gholum_port_strip23_39: 6768249980154200257
+      gholum_port_strip23_4: -2448871167937052119
+      gholum_port_strip23_40: 1988234183738930835
+      gholum_port_strip23_41: -2134564691869059244
+      gholum_port_strip23_42: 3105888930990080806
+      gholum_port_strip23_43: 5034725598923346979
+      gholum_port_strip23_44: -3926794391391078289
+      gholum_port_strip23_45: 4556235860521337816
+      gholum_port_strip23_46: 6271264127883202084
+      gholum_port_strip23_47: 8121698752859662679
+      gholum_port_strip23_48: -418904910719864150
+      gholum_port_strip23_5: -3740521502429869453
+      gholum_port_strip23_6: -3617797126063971897
+      gholum_port_strip23_7: -5485448101431892973
+      gholum_port_strip23_8: 9082545590314464860
+      gholum_port_strip23_9: 8143952350182740611
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

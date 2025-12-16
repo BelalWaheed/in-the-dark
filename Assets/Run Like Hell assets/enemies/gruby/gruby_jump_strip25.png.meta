@@ -1,0 +1,793 @@
+fileFormatVersion: 2
+guid: 1fdcea2e32d8b8949a74d9e1733d4691
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -3543996675089702530
+    second: gruby_jump_strip25_0
+  - first:
+      213: -1317474491173139623
+    second: gruby_jump_strip25_1
+  - first:
+      213: 2271346791321571441
+    second: gruby_jump_strip25_2
+  - first:
+      213: -4583862059170310364
+    second: gruby_jump_strip25_3
+  - first:
+      213: 8798925492376303368
+    second: gruby_jump_strip25_4
+  - first:
+      213: -7480274053444747046
+    second: gruby_jump_strip25_5
+  - first:
+      213: -5206431590329245569
+    second: gruby_jump_strip25_6
+  - first:
+      213: -1888317941305639127
+    second: gruby_jump_strip25_7
+  - first:
+      213: 6296099968927218883
+    second: gruby_jump_strip25_8
+  - first:
+      213: 213543425280744666
+    second: gruby_jump_strip25_9
+  - first:
+      213: 7287018893953192492
+    second: gruby_jump_strip25_10
+  - first:
+      213: 2666366466364002413
+    second: gruby_jump_strip25_11
+  - first:
+      213: -5380522545142638733
+    second: gruby_jump_strip25_12
+  - first:
+      213: -7378260131708502051
+    second: gruby_jump_strip25_13
+  - first:
+      213: -2706865899756186902
+    second: gruby_jump_strip25_14
+  - first:
+      213: 8442838929933785933
+    second: gruby_jump_strip25_15
+  - first:
+      213: -3669317645933182808
+    second: gruby_jump_strip25_16
+  - first:
+      213: 8261749219807642734
+    second: gruby_jump_strip25_17
+  - first:
+      213: 5719333818825941094
+    second: gruby_jump_strip25_18
+  - first:
+      213: -5581855285548555850
+    second: gruby_jump_strip25_19
+  - first:
+      213: -5040904016383120433
+    second: gruby_jump_strip25_20
+  - first:
+      213: -1607112177353062216
+    second: gruby_jump_strip25_21
+  - first:
+      213: -7425617252125166895
+    second: gruby_jump_strip25_22
+  - first:
+      213: -703702812315556526
+    second: gruby_jump_strip25_23
+  - first:
+      213: -3978684741087022413
+    second: gruby_jump_strip25_24
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: gruby_jump_strip25_0
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 11
+        width: 51
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e71ec180dc131dec0800000000000000
+      internalID: -3543996675089702530
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gruby_jump_strip25_1
+      rect:
+        serializedVersion: 2
+        x: 174
+        y: 11
+        width: 51
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 95b8cf83ee367bde0800000000000000
+      internalID: -1317474491173139623
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gruby_jump_strip25_2
+      rect:
+        serializedVersion: 2
+        x: 306
+        y: 11
+        width: 52
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 17012726fd1758f10800000000000000
+      internalID: 2271346791321571441
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gruby_jump_strip25_3
+      rect:
+        serializedVersion: 2
+        x: 438
+        y: 11
+        width: 52
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 42753c75eb9d260c0800000000000000
+      internalID: -4583862059170310364
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gruby_jump_strip25_4
+      rect:
+        serializedVersion: 2
+        x: 570
+        y: 11
+        width: 53
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 807f73add101c1a70800000000000000
+      internalID: 8798925492376303368
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gruby_jump_strip25_5
+      rect:
+        serializedVersion: 2
+        x: 701
+        y: 11
+        width: 55
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ad0cadd616ab03890800000000000000
+      internalID: -7480274053444747046
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gruby_jump_strip25_6
+      rect:
+        serializedVersion: 2
+        x: 834
+        y: 11
+        width: 54
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f70ad0fad0a0fb7b0800000000000000
+      internalID: -5206431590329245569
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gruby_jump_strip25_7
+      rect:
+        serializedVersion: 2
+        x: 965
+        y: 11
+        width: 55
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 92ffa7d46d85bc5e0800000000000000
+      internalID: -1888317941305639127
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gruby_jump_strip25_8
+      rect:
+        serializedVersion: 2
+        x: 1097
+        y: 11
+        width: 55
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3cc3146409d306750800000000000000
+      internalID: 6296099968927218883
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gruby_jump_strip25_9
+      rect:
+        serializedVersion: 2
+        x: 1229
+        y: 11
+        width: 55
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: adc9af72d98a6f200800000000000000
+      internalID: 213543425280744666
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gruby_jump_strip25_10
+      rect:
+        serializedVersion: 2
+        x: 1359
+        y: 11
+        width: 59
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c22d3a56311b02560800000000000000
+      internalID: 7287018893953192492
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gruby_jump_strip25_11
+      rect:
+        serializedVersion: 2
+        x: 1490
+        y: 11
+        width: 63
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d60d3a49c26d00520800000000000000
+      internalID: 2666366466364002413
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gruby_jump_strip25_12
+      rect:
+        serializedVersion: 2
+        x: 1621
+        y: 11
+        width: 64
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 377dace904b8455b0800000000000000
+      internalID: -5380522545142638733
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gruby_jump_strip25_13
+      rect:
+        serializedVersion: 2
+        x: 1752
+        y: 11
+        width: 65
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ddf761d70872b9990800000000000000
+      internalID: -7378260131708502051
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gruby_jump_strip25_14
+      rect:
+        serializedVersion: 2
+        x: 1890
+        y: 11
+        width: 57
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ae21a664ec74f6ad0800000000000000
+      internalID: -2706865899756186902
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gruby_jump_strip25_15
+      rect:
+        serializedVersion: 2
+        x: 2027
+        y: 11
+        width: 50
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d4bda82564dfa2570800000000000000
+      internalID: 8442838929933785933
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gruby_jump_strip25_16
+      rect:
+        serializedVersion: 2
+        x: 2159
+        y: 11
+        width: 50
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8a0841aba07f31dc0800000000000000
+      internalID: -3669317645933182808
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gruby_jump_strip25_17
+      rect:
+        serializedVersion: 2
+        x: 2291
+        y: 11
+        width: 50
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e64cefd8421a7a270800000000000000
+      internalID: 8261749219807642734
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gruby_jump_strip25_18
+      rect:
+        serializedVersion: 2
+        x: 2423
+        y: 11
+        width: 50
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 660affe4ec72f5f40800000000000000
+      internalID: 5719333818825941094
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gruby_jump_strip25_19
+      rect:
+        serializedVersion: 2
+        x: 2555
+        y: 11
+        width: 50
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6b1ed3511344982b0800000000000000
+      internalID: -5581855285548555850
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gruby_jump_strip25_20
+      rect:
+        serializedVersion: 2
+        x: 2687
+        y: 11
+        width: 50
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fcbe4a4418c1b0ab0800000000000000
+      internalID: -5040904016383120433
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gruby_jump_strip25_21
+      rect:
+        serializedVersion: 2
+        x: 2817
+        y: 11
+        width: 52
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8b88aa25df362b9e0800000000000000
+      internalID: -1607112177353062216
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gruby_jump_strip25_22
+      rect:
+        serializedVersion: 2
+        x: 2948
+        y: 11
+        width: 52
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1d23119a378e2f890800000000000000
+      internalID: -7425617252125166895
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gruby_jump_strip25_23
+      rect:
+        serializedVersion: 2
+        x: 3079
+        y: 11
+        width: 52
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 255ec744502fb36f0800000000000000
+      internalID: -703702812315556526
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gruby_jump_strip25_24
+      rect:
+        serializedVersion: 2
+        x: 3210
+        y: 11
+        width: 51
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3b2bd36de4fd8c8c0800000000000000
+      internalID: -3978684741087022413
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      gruby_jump_strip25_0: -3543996675089702530
+      gruby_jump_strip25_1: -1317474491173139623
+      gruby_jump_strip25_10: 7287018893953192492
+      gruby_jump_strip25_11: 2666366466364002413
+      gruby_jump_strip25_12: -5380522545142638733
+      gruby_jump_strip25_13: -7378260131708502051
+      gruby_jump_strip25_14: -2706865899756186902
+      gruby_jump_strip25_15: 8442838929933785933
+      gruby_jump_strip25_16: -3669317645933182808
+      gruby_jump_strip25_17: 8261749219807642734
+      gruby_jump_strip25_18: 5719333818825941094
+      gruby_jump_strip25_19: -5581855285548555850
+      gruby_jump_strip25_2: 2271346791321571441
+      gruby_jump_strip25_20: -5040904016383120433
+      gruby_jump_strip25_21: -1607112177353062216
+      gruby_jump_strip25_22: -7425617252125166895
+      gruby_jump_strip25_23: -703702812315556526
+      gruby_jump_strip25_24: -3978684741087022413
+      gruby_jump_strip25_3: -4583862059170310364
+      gruby_jump_strip25_4: 8798925492376303368
+      gruby_jump_strip25_5: -7480274053444747046
+      gruby_jump_strip25_6: -5206431590329245569
+      gruby_jump_strip25_7: -1888317941305639127
+      gruby_jump_strip25_8: 6296099968927218883
+      gruby_jump_strip25_9: 213543425280744666
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,897 @@
+fileFormatVersion: 2
+guid: 6e989968baba195418c32cee1a45f6c1
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 2884366401011262092
+    second: gruby_attack_fail_strip29_0
+  - first:
+      213: -3697939536118371167
+    second: gruby_attack_fail_strip29_1
+  - first:
+      213: -5592554451840987098
+    second: gruby_attack_fail_strip29_2
+  - first:
+      213: 8697722305361678346
+    second: gruby_attack_fail_strip29_3
+  - first:
+      213: -5840293984315658215
+    second: gruby_attack_fail_strip29_4
+  - first:
+      213: -8789496809082788059
+    second: gruby_attack_fail_strip29_5
+  - first:
+      213: -2379472355873780352
+    second: gruby_attack_fail_strip29_6
+  - first:
+      213: -4087909948709657839
+    second: gruby_attack_fail_strip29_7
+  - first:
+      213: -1857127574123623952
+    second: gruby_attack_fail_strip29_8
+  - first:
+      213: 4834124158152202940
+    second: gruby_attack_fail_strip29_9
+  - first:
+      213: -139476619233313576
+    second: gruby_attack_fail_strip29_10
+  - first:
+      213: -4171804797372210953
+    second: gruby_attack_fail_strip29_11
+  - first:
+      213: -4728855069961604668
+    second: gruby_attack_fail_strip29_12
+  - first:
+      213: 2879851253021655822
+    second: gruby_attack_fail_strip29_13
+  - first:
+      213: 3362474089150690837
+    second: gruby_attack_fail_strip29_14
+  - first:
+      213: 3294796270770357546
+    second: gruby_attack_fail_strip29_15
+  - first:
+      213: -1286237956462449664
+    second: gruby_attack_fail_strip29_16
+  - first:
+      213: 5098373161098571959
+    second: gruby_attack_fail_strip29_17
+  - first:
+      213: -89903918923135633
+    second: gruby_attack_fail_strip29_18
+  - first:
+      213: -1099556747836805370
+    second: gruby_attack_fail_strip29_19
+  - first:
+      213: 7694888857663940270
+    second: gruby_attack_fail_strip29_20
+  - first:
+      213: 2866210815204407063
+    second: gruby_attack_fail_strip29_21
+  - first:
+      213: 4909227914989443405
+    second: gruby_attack_fail_strip29_22
+  - first:
+      213: 2928899510757208234
+    second: gruby_attack_fail_strip29_23
+  - first:
+      213: 375618945146307620
+    second: gruby_attack_fail_strip29_24
+  - first:
+      213: 3824621527869526865
+    second: gruby_attack_fail_strip29_25
+  - first:
+      213: 4503992383658332906
+    second: gruby_attack_fail_strip29_26
+  - first:
+      213: -4763139150564866122
+    second: gruby_attack_fail_strip29_27
+  - first:
+      213: 8011731880316552233
+    second: gruby_attack_fail_strip29_28
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: gruby_attack_fail_strip29_0
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 15
+        width: 42
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c82295ea5f3570820800000000000000
+      internalID: 2884366401011262092
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gruby_attack_fail_strip29_1
+      rect:
+        serializedVersion: 2
+        x: 183
+        y: 19
+        width: 45
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1acaacc95974eacc0800000000000000
+      internalID: -3697939536118371167
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gruby_attack_fail_strip29_2
+      rect:
+        serializedVersion: 2
+        x: 313
+        y: 23
+        width: 49
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6201dfe4b514362b0800000000000000
+      internalID: -5592554451840987098
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gruby_attack_fail_strip29_3
+      rect:
+        serializedVersion: 2
+        x: 447
+        y: 21
+        width: 45
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a00131eaa5484b870800000000000000
+      internalID: 8697722305361678346
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gruby_attack_fail_strip29_4
+      rect:
+        serializedVersion: 2
+        x: 580
+        y: 16
+        width: 43
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 910b301809b13fea0800000000000000
+      internalID: -5840293984315658215
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gruby_attack_fail_strip29_5
+      rect:
+        serializedVersion: 2
+        x: 715
+        y: 11
+        width: 40
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 527e03c883f650680800000000000000
+      internalID: -8789496809082788059
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gruby_attack_fail_strip29_6
+      rect:
+        serializedVersion: 2
+        x: 847
+        y: 11
+        width: 41
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 08d0843df7a6afed0800000000000000
+      internalID: -2379472355873780352
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gruby_attack_fail_strip29_7
+      rect:
+        serializedVersion: 2
+        x: 977
+        y: 11
+        width: 42
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 11320617f83d447c0800000000000000
+      internalID: -4087909948709657839
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gruby_attack_fail_strip29_8
+      rect:
+        serializedVersion: 2
+        x: 1107
+        y: 11
+        width: 45
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0f947c19f482a36e0800000000000000
+      internalID: -1857127574123623952
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gruby_attack_fail_strip29_9
+      rect:
+        serializedVersion: 2
+        x: 1239
+        y: 12
+        width: 45
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cbadbce3f42461340800000000000000
+      internalID: 4834124158152202940
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gruby_attack_fail_strip29_10
+      rect:
+        serializedVersion: 2
+        x: 1369
+        y: 11
+        width: 46
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8dc3028f0ca701ef0800000000000000
+      internalID: -139476619233313576
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gruby_attack_fail_strip29_11
+      rect:
+        serializedVersion: 2
+        x: 1499
+        y: 12
+        width: 50
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7f0eb54d3a5ca16c0800000000000000
+      internalID: -4171804797372210953
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gruby_attack_fail_strip29_12
+      rect:
+        serializedVersion: 2
+        x: 1629
+        y: 11
+        width: 56
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4c132a05e5bbf5eb0800000000000000
+      internalID: -4728855069961604668
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gruby_attack_fail_strip29_13
+      rect:
+        serializedVersion: 2
+        x: 1763
+        y: 15
+        width: 53
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e03c15ed47947f720800000000000000
+      internalID: 2879851253021655822
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gruby_attack_fail_strip29_14
+      rect:
+        serializedVersion: 2
+        x: 1895
+        y: 20
+        width: 52
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 51638427e58e9ae20800000000000000
+      internalID: 3362474089150690837
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gruby_attack_fail_strip29_15
+      rect:
+        serializedVersion: 2
+        x: 2027
+        y: 23
+        width: 51
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a258c8e60c779bd20800000000000000
+      internalID: 3294796270770357546
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gruby_attack_fail_strip29_16
+      rect:
+        serializedVersion: 2
+        x: 2167
+        y: 20
+        width: 49
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 00c6e64b46d562ee0800000000000000
+      internalID: -1286237956462449664
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gruby_attack_fail_strip29_17
+      rect:
+        serializedVersion: 2
+        x: 2303
+        y: 15
+        width: 49
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7b07aafa06f01c640800000000000000
+      internalID: 5098373161098571959
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gruby_attack_fail_strip29_18
+      rect:
+        serializedVersion: 2
+        x: 2435
+        y: 11
+        width: 54
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f65cba0bcd890cef0800000000000000
+      internalID: -89903918923135633
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gruby_attack_fail_strip29_19
+      rect:
+        serializedVersion: 2
+        x: 2567
+        y: 11
+        width: 52
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 60fadcaa6f69db0f0800000000000000
+      internalID: -1099556747836805370
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gruby_attack_fail_strip29_20
+      rect:
+        serializedVersion: 2
+        x: 2699
+        y: 11
+        width: 50
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ea6ab2395acb9ca60800000000000000
+      internalID: 7694888857663940270
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gruby_attack_fail_strip29_21
+      rect:
+        serializedVersion: 2
+        x: 2831
+        y: 11
+        width: 46
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 71734a3fc83d6c720800000000000000
+      internalID: 2866210815204407063
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gruby_attack_fail_strip29_22
+      rect:
+        serializedVersion: 2
+        x: 2963
+        y: 11
+        width: 42
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d49906a47c4112440800000000000000
+      internalID: 4909227914989443405
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gruby_attack_fail_strip29_23
+      rect:
+        serializedVersion: 2
+        x: 3095
+        y: 11
+        width: 42
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aa0bf79469a85a820800000000000000
+      internalID: 2928899510757208234
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gruby_attack_fail_strip29_24
+      rect:
+        serializedVersion: 2
+        x: 3224
+        y: 11
+        width: 47
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4244a54c077763500800000000000000
+      internalID: 375618945146307620
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gruby_attack_fail_strip29_25
+      rect:
+        serializedVersion: 2
+        x: 3355
+        y: 11
+        width: 44
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 15399f01409c31530800000000000000
+      internalID: 3824621527869526865
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gruby_attack_fail_strip29_26
+      rect:
+        serializedVersion: 2
+        x: 3484
+        y: 11
+        width: 42
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ae21503b535618e30800000000000000
+      internalID: 4503992383658332906
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gruby_attack_fail_strip29_27
+      rect:
+        serializedVersion: 2
+        x: 3611
+        y: 11
+        width: 46
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6b743d2cd2ee5edb0800000000000000
+      internalID: -4763139150564866122
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gruby_attack_fail_strip29_28
+      rect:
+        serializedVersion: 2
+        x: 3738
+        y: 11
+        width: 51
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 924c0f972b36f2f60800000000000000
+      internalID: 8011731880316552233
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      gruby_attack_fail_strip29_0: 2884366401011262092
+      gruby_attack_fail_strip29_1: -3697939536118371167
+      gruby_attack_fail_strip29_10: -139476619233313576
+      gruby_attack_fail_strip29_11: -4171804797372210953
+      gruby_attack_fail_strip29_12: -4728855069961604668
+      gruby_attack_fail_strip29_13: 2879851253021655822
+      gruby_attack_fail_strip29_14: 3362474089150690837
+      gruby_attack_fail_strip29_15: 3294796270770357546
+      gruby_attack_fail_strip29_16: -1286237956462449664
+      gruby_attack_fail_strip29_17: 5098373161098571959
+      gruby_attack_fail_strip29_18: -89903918923135633
+      gruby_attack_fail_strip29_19: -1099556747836805370
+      gruby_attack_fail_strip29_2: -5592554451840987098
+      gruby_attack_fail_strip29_20: 7694888857663940270
+      gruby_attack_fail_strip29_21: 2866210815204407063
+      gruby_attack_fail_strip29_22: 4909227914989443405
+      gruby_attack_fail_strip29_23: 2928899510757208234
+      gruby_attack_fail_strip29_24: 375618945146307620
+      gruby_attack_fail_strip29_25: 3824621527869526865
+      gruby_attack_fail_strip29_26: 4503992383658332906
+      gruby_attack_fail_strip29_27: -4763139150564866122
+      gruby_attack_fail_strip29_28: 8011731880316552233
+      gruby_attack_fail_strip29_3: 8697722305361678346
+      gruby_attack_fail_strip29_4: -5840293984315658215
+      gruby_attack_fail_strip29_5: -8789496809082788059
+      gruby_attack_fail_strip29_6: -2379472355873780352
+      gruby_attack_fail_strip29_7: -4087909948709657839
+      gruby_attack_fail_strip29_8: -1857127574123623952
+      gruby_attack_fail_strip29_9: 4834124158152202940
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

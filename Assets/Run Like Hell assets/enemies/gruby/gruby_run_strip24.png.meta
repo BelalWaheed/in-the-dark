@@ -1,0 +1,767 @@
+fileFormatVersion: 2
+guid: a7f5ab14a8f6d5d46865bc0432b605ce
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -8531361183183488508
+    second: gruby_run_strip24_0
+  - first:
+      213: -8349118466837558251
+    second: gruby_run_strip24_1
+  - first:
+      213: 6893601502923640209
+    second: gruby_run_strip24_2
+  - first:
+      213: -9152556145209577833
+    second: gruby_run_strip24_3
+  - first:
+      213: 3382728624383664777
+    second: gruby_run_strip24_4
+  - first:
+      213: 8129648145662254872
+    second: gruby_run_strip24_5
+  - first:
+      213: -1701765223516724471
+    second: gruby_run_strip24_6
+  - first:
+      213: 1594499038625428038
+    second: gruby_run_strip24_7
+  - first:
+      213: 6680784354752642826
+    second: gruby_run_strip24_8
+  - first:
+      213: -6311412099497100227
+    second: gruby_run_strip24_9
+  - first:
+      213: 9024060193478889785
+    second: gruby_run_strip24_10
+  - first:
+      213: -3189085796364410347
+    second: gruby_run_strip24_11
+  - first:
+      213: -3563800120027176930
+    second: gruby_run_strip24_12
+  - first:
+      213: 8915892277289473498
+    second: gruby_run_strip24_13
+  - first:
+      213: -6476649549811770240
+    second: gruby_run_strip24_14
+  - first:
+      213: 5833577649656143050
+    second: gruby_run_strip24_15
+  - first:
+      213: -266224428614071989
+    second: gruby_run_strip24_16
+  - first:
+      213: -318758117052050414
+    second: gruby_run_strip24_17
+  - first:
+      213: 7754974452734125472
+    second: gruby_run_strip24_18
+  - first:
+      213: 6508701682816971512
+    second: gruby_run_strip24_19
+  - first:
+      213: 679422662867083578
+    second: gruby_run_strip24_20
+  - first:
+      213: 6903235850968802696
+    second: gruby_run_strip24_21
+  - first:
+      213: -6683484702146906439
+    second: gruby_run_strip24_22
+  - first:
+      213: -1387577850815679752
+    second: gruby_run_strip24_23
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: gruby_run_strip24_0
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 15
+        width: 42
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 40abac974348a9980800000000000000
+      internalID: -8531361183183488508
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gruby_run_strip24_1
+      rect:
+        serializedVersion: 2
+        x: 183
+        y: 19
+        width: 45
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 51c4e7c6df8f12c80800000000000000
+      internalID: -8349118466837558251
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gruby_run_strip24_2
+      rect:
+        serializedVersion: 2
+        x: 313
+        y: 23
+        width: 49
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 19dccd40b0efaaf50800000000000000
+      internalID: 6893601502923640209
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gruby_run_strip24_3
+      rect:
+        serializedVersion: 2
+        x: 447
+        y: 21
+        width: 45
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 79ee6f1ada69bf080800000000000000
+      internalID: -9152556145209577833
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gruby_run_strip24_4
+      rect:
+        serializedVersion: 2
+        x: 580
+        y: 16
+        width: 43
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9822febe2cdd1fe20800000000000000
+      internalID: 3382728624383664777
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gruby_run_strip24_5
+      rect:
+        serializedVersion: 2
+        x: 715
+        y: 11
+        width: 40
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 81f9c1f6aef42d070800000000000000
+      internalID: 8129648145662254872
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gruby_run_strip24_6
+      rect:
+        serializedVersion: 2
+        x: 847
+        y: 11
+        width: 41
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9032c29ab8d1268e0800000000000000
+      internalID: -1701765223516724471
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gruby_run_strip24_7
+      rect:
+        serializedVersion: 2
+        x: 977
+        y: 11
+        width: 42
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 64278f77d6cc02610800000000000000
+      internalID: 1594499038625428038
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gruby_run_strip24_8
+      rect:
+        serializedVersion: 2
+        x: 1107
+        y: 11
+        width: 45
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a0fb40e69f9e6bc50800000000000000
+      internalID: 6680784354752642826
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gruby_run_strip24_9
+      rect:
+        serializedVersion: 2
+        x: 1237
+        y: 12
+        width: 47
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d3c7f52822c5968a0800000000000000
+      internalID: -6311412099497100227
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gruby_run_strip24_10
+      rect:
+        serializedVersion: 2
+        x: 1367
+        y: 11
+        width: 48
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9315d083fe6eb3d70800000000000000
+      internalID: 9024060193478889785
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gruby_run_strip24_11
+      rect:
+        serializedVersion: 2
+        x: 1498
+        y: 12
+        width: 51
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 512a47d5d571eb3d0800000000000000
+      internalID: -3189085796364410347
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gruby_run_strip24_12
+      rect:
+        serializedVersion: 2
+        x: 1629
+        y: 11
+        width: 56
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e1029433ca6da8ec0800000000000000
+      internalID: -3563800120027176930
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gruby_run_strip24_13
+      rect:
+        serializedVersion: 2
+        x: 1761
+        y: 15
+        width: 56
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ad5dc7ba9cc9bbb70800000000000000
+      internalID: 8915892277289473498
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gruby_run_strip24_14
+      rect:
+        serializedVersion: 2
+        x: 1894
+        y: 20
+        width: 55
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 08c96c89c815e16a0800000000000000
+      internalID: -6476649549811770240
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gruby_run_strip24_15
+      rect:
+        serializedVersion: 2
+        x: 2027
+        y: 23
+        width: 53
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: acc9969f6f705f050800000000000000
+      internalID: 5833577649656143050
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gruby_run_strip24_16
+      rect:
+        serializedVersion: 2
+        x: 2160
+        y: 20
+        width: 50
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b494dedea4e2e4cf0800000000000000
+      internalID: -266224428614071989
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gruby_run_strip24_17
+      rect:
+        serializedVersion: 2
+        x: 2293
+        y: 15
+        width: 48
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 21417df6e2b839bf0800000000000000
+      internalID: -318758117052050414
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gruby_run_strip24_18
+      rect:
+        serializedVersion: 2
+        x: 2427
+        y: 11
+        width: 44
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0a562795d243f9b60800000000000000
+      internalID: 7754974452734125472
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gruby_run_strip24_19
+      rect:
+        serializedVersion: 2
+        x: 2560
+        y: 11
+        width: 42
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8f2fa4922bd835a50800000000000000
+      internalID: 6508701682816971512
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gruby_run_strip24_20
+      rect:
+        serializedVersion: 2
+        x: 2694
+        y: 11
+        width: 40
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a31ea88ef4bcd6900800000000000000
+      internalID: 679422662867083578
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gruby_run_strip24_21
+      rect:
+        serializedVersion: 2
+        x: 2827
+        y: 11
+        width: 39
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 885acb97e683dcf50800000000000000
+      internalID: 6903235850968802696
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gruby_run_strip24_22
+      rect:
+        serializedVersion: 2
+        x: 2961
+        y: 11
+        width: 37
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9b6b6c2f21e7f33a0800000000000000
+      internalID: -6683484702146906439
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gruby_run_strip24_23
+      rect:
+        serializedVersion: 2
+        x: 3090
+        y: 11
+        width: 40
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8f27eefdb455ebce0800000000000000
+      internalID: -1387577850815679752
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      gruby_run_strip24_0: -8531361183183488508
+      gruby_run_strip24_1: -8349118466837558251
+      gruby_run_strip24_10: 9024060193478889785
+      gruby_run_strip24_11: -3189085796364410347
+      gruby_run_strip24_12: -3563800120027176930
+      gruby_run_strip24_13: 8915892277289473498
+      gruby_run_strip24_14: -6476649549811770240
+      gruby_run_strip24_15: 5833577649656143050
+      gruby_run_strip24_16: -266224428614071989
+      gruby_run_strip24_17: -318758117052050414
+      gruby_run_strip24_18: 7754974452734125472
+      gruby_run_strip24_19: 6508701682816971512
+      gruby_run_strip24_2: 6893601502923640209
+      gruby_run_strip24_20: 679422662867083578
+      gruby_run_strip24_21: 6903235850968802696
+      gruby_run_strip24_22: -6683484702146906439
+      gruby_run_strip24_23: -1387577850815679752
+      gruby_run_strip24_3: -9152556145209577833
+      gruby_run_strip24_4: 3382728624383664777
+      gruby_run_strip24_5: 8129648145662254872
+      gruby_run_strip24_6: -1701765223516724471
+      gruby_run_strip24_7: 1594499038625428038
+      gruby_run_strip24_8: 6680784354752642826
+      gruby_run_strip24_9: -6311412099497100227
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

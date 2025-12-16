@@ -1,0 +1,689 @@
+fileFormatVersion: 2
+guid: 9515872f637378a47ab5ee7d5383bf0e
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 1167085853767352681
+    second: voldo_jump_strip20_0
+  - first:
+      213: 1801533321002944761
+    second: voldo_jump_strip20_1
+  - first:
+      213: -5154056361343503150
+    second: voldo_jump_strip20_2
+  - first:
+      213: -4644323299605864803
+    second: voldo_jump_strip20_3
+  - first:
+      213: 3357825489967446977
+    second: voldo_jump_strip20_4
+  - first:
+      213: -9161446050547892611
+    second: voldo_jump_strip20_5
+  - first:
+      213: 7806307842798120261
+    second: voldo_jump_strip20_6
+  - first:
+      213: 1453409695582576411
+    second: voldo_jump_strip20_7
+  - first:
+      213: -7740350142222056837
+    second: voldo_jump_strip20_8
+  - first:
+      213: 5508233443633894370
+    second: voldo_jump_strip20_9
+  - first:
+      213: 3884846693594367254
+    second: voldo_jump_strip20_10
+  - first:
+      213: -6017241869422380037
+    second: voldo_jump_strip20_11
+  - first:
+      213: 3021072996168829337
+    second: voldo_jump_strip20_12
+  - first:
+      213: -5273069786996018030
+    second: voldo_jump_strip20_13
+  - first:
+      213: 7862377218039095151
+    second: voldo_jump_strip20_14
+  - first:
+      213: 8012770483784977094
+    second: voldo_jump_strip20_15
+  - first:
+      213: -7453902504037494147
+    second: voldo_jump_strip20_16
+  - first:
+      213: 3684371938649163632
+    second: voldo_jump_strip20_17
+  - first:
+      213: 3910515851016882539
+    second: voldo_jump_strip20_18
+  - first:
+      213: -6682726348434752646
+    second: voldo_jump_strip20_19
+  - first:
+      213: 1304293899487810600
+    second: voldo_jump_strip20_20
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: voldo_jump_strip20_0
+      rect:
+        serializedVersion: 2
+        x: 58
+        y: 17
+        width: 52
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 961cf288662523010800000000000000
+      internalID: 1167085853767352681
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: voldo_jump_strip20_1
+      rect:
+        serializedVersion: 2
+        x: 222
+        y: 17
+        width: 52
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9f80961b205500910800000000000000
+      internalID: 1801533321002944761
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: voldo_jump_strip20_2
+      rect:
+        serializedVersion: 2
+        x: 385
+        y: 17
+        width: 53
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2d437c5fb0d1978b0800000000000000
+      internalID: -5154056361343503150
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: voldo_jump_strip20_3
+      rect:
+        serializedVersion: 2
+        x: 547
+        y: 17
+        width: 54
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d9e1ce0d09c0c8fb0800000000000000
+      internalID: -4644323299605864803
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: voldo_jump_strip20_4
+      rect:
+        serializedVersion: 2
+        x: 710
+        y: 17
+        width: 56
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1cbf24b1e74699e20800000000000000
+      internalID: 3357825489967446977
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: voldo_jump_strip20_5
+      rect:
+        serializedVersion: 2
+        x: 874
+        y: 17
+        width: 56
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d7eff204b510cd080800000000000000
+      internalID: -9161446050547892611
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: voldo_jump_strip20_6
+      rect:
+        serializedVersion: 2
+        x: 1042
+        y: 17
+        width: 51
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 54de3599f93955c60800000000000000
+      internalID: 7806307842798120261
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: voldo_jump_strip20_7
+      rect:
+        serializedVersion: 2
+        x: 1211
+        y: 17
+        width: 47
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b1fde4aea6c8b2410800000000000000
+      internalID: 1453409695582576411
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: voldo_jump_strip20_8
+      rect:
+        serializedVersion: 2
+        x: 1376
+        y: 16
+        width: 47
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b72c5b74e80c49490800000000000000
+      internalID: -7740350142222056837
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: voldo_jump_strip20_9
+      rect:
+        serializedVersion: 2
+        x: 1541
+        y: 16
+        width: 48
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2e399b3122d217c40800000000000000
+      internalID: 5508233443633894370
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: voldo_jump_strip20_10
+      rect:
+        serializedVersion: 2
+        x: 1703
+        y: 19
+        width: 54
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6150b8a2c7fb9e530800000000000000
+      internalID: 3884846693594367254
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: voldo_jump_strip20_11
+      rect:
+        serializedVersion: 2
+        x: 1719
+        y: 17
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bfbb87586667e7ca0800000000000000
+      internalID: -6017241869422380037
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: voldo_jump_strip20_12
+      rect:
+        serializedVersion: 2
+        x: 1865
+        y: 18
+        width: 63
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9990b2932e10de920800000000000000
+      internalID: 3021072996168829337
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: voldo_jump_strip20_13
+      rect:
+        serializedVersion: 2
+        x: 2029
+        y: 17
+        width: 64
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 294f14677fa42d6b0800000000000000
+      internalID: -5273069786996018030
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: voldo_jump_strip20_14
+      rect:
+        serializedVersion: 2
+        x: 2192
+        y: 18
+        width: 66
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f6f18535c66cc1d60800000000000000
+      internalID: 7862377218039095151
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: voldo_jump_strip20_15
+      rect:
+        serializedVersion: 2
+        x: 2365
+        y: 16
+        width: 52
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6ca0db03d44133f60800000000000000
+      internalID: 8012770483784977094
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: voldo_jump_strip20_16
+      rect:
+        serializedVersion: 2
+        x: 2534
+        y: 17
+        width: 44
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d7253704a2b6e8890800000000000000
+      internalID: -7453902504037494147
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: voldo_jump_strip20_17
+      rect:
+        serializedVersion: 2
+        x: 2699
+        y: 17
+        width: 46
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 077c99fe1c4812330800000000000000
+      internalID: 3684371938649163632
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: voldo_jump_strip20_18
+      rect:
+        serializedVersion: 2
+        x: 2864
+        y: 17
+        width: 47
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b69456c9271f44630800000000000000
+      internalID: 3910515851016882539
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: voldo_jump_strip20_19
+      rect:
+        serializedVersion: 2
+        x: 3029
+        y: 17
+        width: 49
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a7b376eeacf2243a0800000000000000
+      internalID: -6682726348434752646
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: voldo_jump_strip20_20
+      rect:
+        serializedVersion: 2
+        x: 3193
+        y: 17
+        width: 52
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8241ea12468c91210800000000000000
+      internalID: 1304293899487810600
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      voldo_jump_strip20_0: 1167085853767352681
+      voldo_jump_strip20_1: 1801533321002944761
+      voldo_jump_strip20_10: 3884846693594367254
+      voldo_jump_strip20_11: -6017241869422380037
+      voldo_jump_strip20_12: 3021072996168829337
+      voldo_jump_strip20_13: -5273069786996018030
+      voldo_jump_strip20_14: 7862377218039095151
+      voldo_jump_strip20_15: 8012770483784977094
+      voldo_jump_strip20_16: -7453902504037494147
+      voldo_jump_strip20_17: 3684371938649163632
+      voldo_jump_strip20_18: 3910515851016882539
+      voldo_jump_strip20_19: -6682726348434752646
+      voldo_jump_strip20_2: -5154056361343503150
+      voldo_jump_strip20_20: 1304293899487810600
+      voldo_jump_strip20_3: -4644323299605864803
+      voldo_jump_strip20_4: 3357825489967446977
+      voldo_jump_strip20_5: -9161446050547892611
+      voldo_jump_strip20_6: 7806307842798120261
+      voldo_jump_strip20_7: 1453409695582576411
+      voldo_jump_strip20_8: -7740350142222056837
+      voldo_jump_strip20_9: 5508233443633894370
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

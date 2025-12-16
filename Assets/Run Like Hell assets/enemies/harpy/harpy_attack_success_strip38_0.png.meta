@@ -1,0 +1,1443 @@
+fileFormatVersion: 2
+guid: 2d35a94b10b605940b43e77011817692
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -1742451321793933452
+    second: harpy_attack_success_strip38_0_0
+  - first:
+      213: 659247684926117508
+    second: harpy_attack_success_strip38_0_1
+  - first:
+      213: -6611157925622772921
+    second: harpy_attack_success_strip38_0_2
+  - first:
+      213: -3586466314544787081
+    second: harpy_attack_success_strip38_0_3
+  - first:
+      213: 5849522832578691431
+    second: harpy_attack_success_strip38_0_4
+  - first:
+      213: 8064949432652405715
+    second: harpy_attack_success_strip38_0_5
+  - first:
+      213: -1997297301486793061
+    second: harpy_attack_success_strip38_0_6
+  - first:
+      213: 3296758361259924568
+    second: harpy_attack_success_strip38_0_7
+  - first:
+      213: -4251559690773751418
+    second: harpy_attack_success_strip38_0_8
+  - first:
+      213: -7988362165502146438
+    second: harpy_attack_success_strip38_0_9
+  - first:
+      213: 8010373077705017183
+    second: harpy_attack_success_strip38_0_10
+  - first:
+      213: -52661865178619696
+    second: harpy_attack_success_strip38_0_11
+  - first:
+      213: -3598350919369784173
+    second: harpy_attack_success_strip38_0_12
+  - first:
+      213: 7166435606578432390
+    second: harpy_attack_success_strip38_0_13
+  - first:
+      213: 3776273448517577692
+    second: harpy_attack_success_strip38_0_14
+  - first:
+      213: 7673914505314087795
+    second: harpy_attack_success_strip38_0_15
+  - first:
+      213: 8673542190471190919
+    second: harpy_attack_success_strip38_0_16
+  - first:
+      213: 7967381900900695755
+    second: harpy_attack_success_strip38_0_17
+  - first:
+      213: 8241800734703032004
+    second: harpy_attack_success_strip38_0_18
+  - first:
+      213: 7194760109425869024
+    second: harpy_attack_success_strip38_0_19
+  - first:
+      213: 7603998915378674519
+    second: harpy_attack_success_strip38_0_20
+  - first:
+      213: -5084684354067712154
+    second: harpy_attack_success_strip38_0_21
+  - first:
+      213: 5754930135300490947
+    second: harpy_attack_success_strip38_0_22
+  - first:
+      213: 3141897271310792841
+    second: harpy_attack_success_strip38_0_23
+  - first:
+      213: -6407182497647472526
+    second: harpy_attack_success_strip38_0_24
+  - first:
+      213: 8271668894886933210
+    second: harpy_attack_success_strip38_0_25
+  - first:
+      213: -1772432220796842922
+    second: harpy_attack_success_strip38_0_26
+  - first:
+      213: -3862262446546396384
+    second: harpy_attack_success_strip38_0_27
+  - first:
+      213: 5003591180133442404
+    second: harpy_attack_success_strip38_0_28
+  - first:
+      213: -5104742496880326671
+    second: harpy_attack_success_strip38_0_29
+  - first:
+      213: 1140199970751654298
+    second: harpy_attack_success_strip38_0_30
+  - first:
+      213: -3991652753278587759
+    second: harpy_attack_success_strip38_0_31
+  - first:
+      213: 3103859524243821366
+    second: harpy_attack_success_strip38_0_32
+  - first:
+      213: 449488831887645061
+    second: harpy_attack_success_strip38_0_33
+  - first:
+      213: -2086393217152020218
+    second: harpy_attack_success_strip38_0_34
+  - first:
+      213: 5443945113501398555
+    second: harpy_attack_success_strip38_0_35
+  - first:
+      213: 4262491552772538446
+    second: harpy_attack_success_strip38_0_36
+  - first:
+      213: -7999343834721968203
+    second: harpy_attack_success_strip38_0_37
+  - first:
+      213: -1582197950261027686
+    second: harpy_attack_success_strip38_0_38
+  - first:
+      213: 4072234927187979332
+    second: harpy_attack_success_strip38_0_39
+  - first:
+      213: 132473809816580797
+    second: harpy_attack_success_strip38_0_40
+  - first:
+      213: -8404842398102573599
+    second: harpy_attack_success_strip38_0_41
+  - first:
+      213: -1287280124797861066
+    second: harpy_attack_success_strip38_0_42
+  - first:
+      213: 7273564152895383394
+    second: harpy_attack_success_strip38_0_43
+  - first:
+      213: 6392580661803509213
+    second: harpy_attack_success_strip38_0_44
+  - first:
+      213: -6563513294616248446
+    second: harpy_attack_success_strip38_0_45
+  - first:
+      213: -3129117671176099623
+    second: harpy_attack_success_strip38_0_46
+  - first:
+      213: -466415584954076612
+    second: harpy_attack_success_strip38_0_47
+  - first:
+      213: -1160948708331452443
+    second: harpy_attack_success_strip38_0_48
+  - first:
+      213: -5316832204279595231
+    second: harpy_attack_success_strip38_0_49
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: harpy_attack_success_strip38_0_0
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 30
+        width: 53
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 47f001631c191d7e0800000000000000
+      internalID: -1742451321793933452
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: harpy_attack_success_strip38_0_1
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 30
+        width: 53
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 486150fc64e162900800000000000000
+      internalID: 659247684926117508
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: harpy_attack_success_strip38_0_2
+      rect:
+        serializedVersion: 2
+        x: 293
+        y: 29
+        width: 53
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 74b0f31e4e27044a0800000000000000
+      internalID: -6611157925622772921
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: harpy_attack_success_strip38_0_3
+      rect:
+        serializedVersion: 2
+        x: 419
+        y: 28
+        width: 53
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 77157aa83ef4a3ec0800000000000000
+      internalID: -3586466314544787081
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: harpy_attack_success_strip38_0_4
+      rect:
+        serializedVersion: 2
+        x: 554
+        y: 43
+        width: 46
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 761c36d260ead2150800000000000000
+      internalID: 5849522832578691431
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: harpy_attack_success_strip38_0_5
+      rect:
+        serializedVersion: 2
+        x: 686
+        y: 35
+        width: 46
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3db1cb077c47cef60800000000000000
+      internalID: 8064949432652405715
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: harpy_attack_success_strip38_0_6
+      rect:
+        serializedVersion: 2
+        x: 805
+        y: 35
+        width: 51
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b9e880abfac2844e0800000000000000
+      internalID: -1997297301486793061
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: harpy_attack_success_strip38_0_7
+      rect:
+        serializedVersion: 2
+        x: 923
+        y: 33
+        width: 59
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 85c5239334070cd20800000000000000
+      internalID: 3296758361259924568
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: harpy_attack_success_strip38_0_8
+      rect:
+        serializedVersion: 2
+        x: 1042
+        y: 0
+        width: 75
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6899f0aacfc6ff4c0800000000000000
+      internalID: -4251559690773751418
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: harpy_attack_success_strip38_0_9
+      rect:
+        serializedVersion: 2
+        x: 1173
+        y: 0
+        width: 65
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a7803144fe2a32190800000000000000
+      internalID: -7988362165502146438
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: harpy_attack_success_strip38_0_10
+      rect:
+        serializedVersion: 2
+        x: 1305
+        y: 51
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f57c5f69fdf8a2f60800000000000000
+      internalID: 8010373077705017183
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: harpy_attack_success_strip38_0_11
+      rect:
+        serializedVersion: 2
+        x: 1314
+        y: 0
+        width: 48
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0d0a1d80058e44ff0800000000000000
+      internalID: -52661865178619696
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: harpy_attack_success_strip38_0_12
+      rect:
+        serializedVersion: 2
+        x: 1434
+        y: 0
+        width: 55
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 39483c957e6101ec0800000000000000
+      internalID: -3598350919369784173
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: harpy_attack_success_strip38_0_13
+      rect:
+        serializedVersion: 2
+        x: 1563
+        y: 0
+        width: 54
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 68981dbf63b447360800000000000000
+      internalID: 7166435606578432390
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: harpy_attack_success_strip38_0_14
+      rect:
+        serializedVersion: 2
+        x: 2957
+        y: 0
+        width: 69
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cdb21a1a1b4086430800000000000000
+      internalID: 3776273448517577692
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: harpy_attack_success_strip38_0_15
+      rect:
+        serializedVersion: 2
+        x: 2998
+        y: 55
+        width: 20
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 373b6fd95983f7a60800000000000000
+      internalID: 7673914505314087795
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: harpy_attack_success_strip38_0_16
+      rect:
+        serializedVersion: 2
+        x: 3121
+        y: 52
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7891667faac9e5870800000000000000
+      internalID: 8673542190471190919
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: harpy_attack_success_strip38_0_17
+      rect:
+        serializedVersion: 2
+        x: 3211
+        y: 0
+        width: 67
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bceff0930a3d19e60800000000000000
+      internalID: 7967381900900695755
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: harpy_attack_success_strip38_0_18
+      rect:
+        serializedVersion: 2
+        x: 3241
+        y: 57
+        width: 14
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4c6178de912c06270800000000000000
+      internalID: 8241800734703032004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: harpy_attack_success_strip38_0_19
+      rect:
+        serializedVersion: 2
+        x: 3338
+        y: 0
+        width: 66
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0e0ca76333ce8d360800000000000000
+      internalID: 7194760109425869024
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: harpy_attack_success_strip38_0_20
+      rect:
+        serializedVersion: 2
+        x: 1689
+        y: 0
+        width: 55
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 75bf99fc9b4d68960800000000000000
+      internalID: 7603998915378674519
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: harpy_attack_success_strip38_0_21
+      rect:
+        serializedVersion: 2
+        x: 1815
+        y: 0
+        width: 56
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 667bec015829f69b0800000000000000
+      internalID: -5084684354067712154
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: harpy_attack_success_strip38_0_22
+      rect:
+        serializedVersion: 2
+        x: 1942
+        y: 0
+        width: 56
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3c6c6c5977e9ddf40800000000000000
+      internalID: 5754930135300490947
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: harpy_attack_success_strip38_0_23
+      rect:
+        serializedVersion: 2
+        x: 2068
+        y: 0
+        width: 58
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 988bf39fbe24a9b20800000000000000
+      internalID: 3141897271310792841
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: harpy_attack_success_strip38_0_24
+      rect:
+        serializedVersion: 2
+        x: 2195
+        y: 0
+        width: 58
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2705f90177d1517a0800000000000000
+      internalID: -6407182497647472526
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: harpy_attack_success_strip38_0_25
+      rect:
+        serializedVersion: 2
+        x: 2321
+        y: 0
+        width: 59
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ad23263e80fdac270800000000000000
+      internalID: 8271668894886933210
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: harpy_attack_success_strip38_0_26
+      rect:
+        serializedVersion: 2
+        x: 2451
+        y: 0
+        width: 62
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 65c82f2394e0767e0800000000000000
+      internalID: -1772432220796842922
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: harpy_attack_success_strip38_0_27
+      rect:
+        serializedVersion: 2
+        x: 2579
+        y: 0
+        width: 61
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 02b554c94cc766ac0800000000000000
+      internalID: -3862262446546396384
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: harpy_attack_success_strip38_0_28
+      rect:
+        serializedVersion: 2
+        x: 2706
+        y: 0
+        width: 60
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 463a12d0ba3507540800000000000000
+      internalID: 5003591180133442404
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: harpy_attack_success_strip38_0_29
+      rect:
+        serializedVersion: 2
+        x: 2830
+        y: 0
+        width: 71
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1f78b93cebf4829b0800000000000000
+      internalID: -5104742496880326671
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: harpy_attack_success_strip38_0_30
+      rect:
+        serializedVersion: 2
+        x: 3014
+        y: 15
+        width: 14
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a99209515ddc2df00800000000000000
+      internalID: 1140199970751654298
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: harpy_attack_success_strip38_0_31
+      rect:
+        serializedVersion: 2
+        x: 3027
+        y: 31
+        width: 15
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 19cae1638fcca98c0800000000000000
+      internalID: -3991652753278587759
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: harpy_attack_success_strip38_0_32
+      rect:
+        serializedVersion: 2
+        x: 3084
+        y: 0
+        width: 71
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6331447dacf131b20800000000000000
+      internalID: 3103859524243821366
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: harpy_attack_success_strip38_0_33
+      rect:
+        serializedVersion: 2
+        x: 3148
+        y: 19
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5891b2b06b7ec3600800000000000000
+      internalID: 449488831887645061
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: harpy_attack_success_strip38_0_34
+      rect:
+        serializedVersion: 2
+        x: 3158
+        y: 30
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6019ed55c64ab03e0800000000000000
+      internalID: -2086393217152020218
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: harpy_attack_success_strip38_0_35
+      rect:
+        serializedVersion: 2
+        x: 3289
+        y: 27
+        width: 11
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b1679facc37cc8b40800000000000000
+      internalID: 5443945113501398555
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: harpy_attack_success_strip38_0_36
+      rect:
+        serializedVersion: 2
+        x: 3466
+        y: 0
+        width: 64
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e404c1dcb79672b30800000000000000
+      internalID: 4262491552772538446
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: harpy_attack_success_strip38_0_37
+      rect:
+        serializedVersion: 2
+        x: 3593
+        y: 0
+        width: 64
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5bf9f272a2f9cf090800000000000000
+      internalID: -7999343834721968203
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: harpy_attack_success_strip38_0_38
+      rect:
+        serializedVersion: 2
+        x: 3720
+        y: 0
+        width: 70
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a9c175ad857ea0ae0800000000000000
+      internalID: -1582197950261027686
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: harpy_attack_success_strip38_0_39
+      rect:
+        serializedVersion: 2
+        x: 3847
+        y: 0
+        width: 73
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 44c6af4371c738830800000000000000
+      internalID: 4072234927187979332
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: harpy_attack_success_strip38_0_40
+      rect:
+        serializedVersion: 2
+        x: 3975
+        y: 0
+        width: 72
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: db2f8286a34a6d100800000000000000
+      internalID: 132473809816580797
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: harpy_attack_success_strip38_0_41
+      rect:
+        serializedVersion: 2
+        x: 3270
+        y: 15
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1ed24f3ae500c5b80800000000000000
+      internalID: -8404842398102573599
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: harpy_attack_success_strip38_0_42
+      rect:
+        serializedVersion: 2
+        x: 3278
+        y: 18
+        width: 12
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 633c00bfb89a22ee0800000000000000
+      internalID: -1287280124797861066
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: harpy_attack_success_strip38_0_43
+      rect:
+        serializedVersion: 2
+        x: 3404
+        y: 13
+        width: 13
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 26728506f04e0f460800000000000000
+      internalID: 7273564152895383394
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: harpy_attack_success_strip38_0_44
+      rect:
+        serializedVersion: 2
+        x: 3417
+        y: 16
+        width: 11
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dd564d81e3207b850800000000000000
+      internalID: 6392580661803509213
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: harpy_attack_success_strip38_0_45
+      rect:
+        serializedVersion: 2
+        x: 3545
+        y: 10
+        width: 12
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 28f38dbfe67b9e4a0800000000000000
+      internalID: -6563513294616248446
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: harpy_attack_success_strip38_0_46
+      rect:
+        serializedVersion: 2
+        x: 3672
+        y: 7
+        width: 12
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9d8a62d8e042394d0800000000000000
+      internalID: -3129117671176099623
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: harpy_attack_success_strip38_0_47
+      rect:
+        serializedVersion: 2
+        x: 3530
+        y: 4
+        width: 12
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c323b152f75f689f0800000000000000
+      internalID: -466415584954076612
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: harpy_attack_success_strip38_0_48
+      rect:
+        serializedVersion: 2
+        x: 3657
+        y: 2
+        width: 15
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5e7847dfc4b73efe0800000000000000
+      internalID: -1160948708331452443
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: harpy_attack_success_strip38_0_49
+      rect:
+        serializedVersion: 2
+        x: 3788
+        y: 2
+        width: 22
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 12fbe8da741d636b0800000000000000
+      internalID: -5316832204279595231
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      harpy_attack_success_strip38_0_0: -1742451321793933452
+      harpy_attack_success_strip38_0_1: 659247684926117508
+      harpy_attack_success_strip38_0_10: 8010373077705017183
+      harpy_attack_success_strip38_0_11: -52661865178619696
+      harpy_attack_success_strip38_0_12: -3598350919369784173
+      harpy_attack_success_strip38_0_13: 7166435606578432390
+      harpy_attack_success_strip38_0_14: 3776273448517577692
+      harpy_attack_success_strip38_0_15: 7673914505314087795
+      harpy_attack_success_strip38_0_16: 8673542190471190919
+      harpy_attack_success_strip38_0_17: 7967381900900695755
+      harpy_attack_success_strip38_0_18: 8241800734703032004
+      harpy_attack_success_strip38_0_19: 7194760109425869024
+      harpy_attack_success_strip38_0_2: -6611157925622772921
+      harpy_attack_success_strip38_0_20: 7603998915378674519
+      harpy_attack_success_strip38_0_21: -5084684354067712154
+      harpy_attack_success_strip38_0_22: 5754930135300490947
+      harpy_attack_success_strip38_0_23: 3141897271310792841
+      harpy_attack_success_strip38_0_24: -6407182497647472526
+      harpy_attack_success_strip38_0_25: 8271668894886933210
+      harpy_attack_success_strip38_0_26: -1772432220796842922
+      harpy_attack_success_strip38_0_27: -3862262446546396384
+      harpy_attack_success_strip38_0_28: 5003591180133442404
+      harpy_attack_success_strip38_0_29: -5104742496880326671
+      harpy_attack_success_strip38_0_3: -3586466314544787081
+      harpy_attack_success_strip38_0_30: 1140199970751654298
+      harpy_attack_success_strip38_0_31: -3991652753278587759
+      harpy_attack_success_strip38_0_32: 3103859524243821366
+      harpy_attack_success_strip38_0_33: 449488831887645061
+      harpy_attack_success_strip38_0_34: -2086393217152020218
+      harpy_attack_success_strip38_0_35: 5443945113501398555
+      harpy_attack_success_strip38_0_36: 4262491552772538446
+      harpy_attack_success_strip38_0_37: -7999343834721968203
+      harpy_attack_success_strip38_0_38: -1582197950261027686
+      harpy_attack_success_strip38_0_39: 4072234927187979332
+      harpy_attack_success_strip38_0_4: 5849522832578691431
+      harpy_attack_success_strip38_0_40: 132473809816580797
+      harpy_attack_success_strip38_0_41: -8404842398102573599
+      harpy_attack_success_strip38_0_42: -1287280124797861066
+      harpy_attack_success_strip38_0_43: 7273564152895383394
+      harpy_attack_success_strip38_0_44: 6392580661803509213
+      harpy_attack_success_strip38_0_45: -6563513294616248446
+      harpy_attack_success_strip38_0_46: -3129117671176099623
+      harpy_attack_success_strip38_0_47: -466415584954076612
+      harpy_attack_success_strip38_0_48: -1160948708331452443
+      harpy_attack_success_strip38_0_49: -5316832204279595231
+      harpy_attack_success_strip38_0_5: 8064949432652405715
+      harpy_attack_success_strip38_0_6: -1997297301486793061
+      harpy_attack_success_strip38_0_7: 3296758361259924568
+      harpy_attack_success_strip38_0_8: -4251559690773751418
+      harpy_attack_success_strip38_0_9: -7988362165502146438
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

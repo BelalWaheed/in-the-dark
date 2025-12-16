@@ -1,0 +1,611 @@
+fileFormatVersion: 2
+guid: 660b0595bf351004bb545a4cfe07dce5
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -7833074351276430006
+    second: harpy_fly_strip16_0
+  - first:
+      213: -4186582220141633131
+    second: harpy_fly_strip16_1
+  - first:
+      213: 4065140858731425
+    second: harpy_fly_strip16_2
+  - first:
+      213: -7844505858741755780
+    second: harpy_fly_strip16_3
+  - first:
+      213: -5148105573955044518
+    second: harpy_fly_strip16_4
+  - first:
+      213: -65594017694241540
+    second: harpy_fly_strip16_5
+  - first:
+      213: 1691917029964003005
+    second: harpy_fly_strip16_6
+  - first:
+      213: -8336137929755006674
+    second: harpy_fly_strip16_7
+  - first:
+      213: 1749108038668787466
+    second: harpy_fly_strip16_8
+  - first:
+      213: 2929261023898237177
+    second: harpy_fly_strip16_9
+  - first:
+      213: -3277487650738350763
+    second: harpy_fly_strip16_10
+  - first:
+      213: 8663798942496616718
+    second: harpy_fly_strip16_11
+  - first:
+      213: 2690907786992499126
+    second: harpy_fly_strip16_12
+  - first:
+      213: 3617210881674587030
+    second: harpy_fly_strip16_13
+  - first:
+      213: -6664278919890319563
+    second: harpy_fly_strip16_14
+  - first:
+      213: -8954946754720899510
+    second: harpy_fly_strip16_15
+  - first:
+      213: 9174224471871461968
+    second: harpy_fly_strip16_16
+  - first:
+      213: 2875594733600179848
+    second: harpy_fly_strip16_17
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: harpy_fly_strip16_0
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 30
+        width: 53
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a4de1f001645b4390800000000000000
+      internalID: -7833074351276430006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: harpy_fly_strip16_1
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 28
+        width: 56
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 591ed79f6a546e5c0800000000000000
+      internalID: -4186582220141633131
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: harpy_fly_strip16_2
+      rect:
+        serializedVersion: 2
+        x: 291
+        y: 25
+        width: 56
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1abb8dc59317e0000800000000000000
+      internalID: 4065140858731425
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: harpy_fly_strip16_3
+      rect:
+        serializedVersion: 2
+        x: 415
+        y: 27
+        width: 59
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c702a33cb77b22390800000000000000
+      internalID: -7844505858741755780
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: harpy_fly_strip16_4
+      rect:
+        serializedVersion: 2
+        x: 540
+        y: 29
+        width: 61
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a5b733e91414e88b0800000000000000
+      internalID: -5148105573955044518
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: harpy_fly_strip16_5
+      rect:
+        serializedVersion: 2
+        x: 668
+        y: 30
+        width: 60
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cfca1f3a696f61ff0800000000000000
+      internalID: -65594017694241540
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: harpy_fly_strip16_6
+      rect:
+        serializedVersion: 2
+        x: 798
+        y: 51
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: db630781395ea7710800000000000000
+      internalID: 1691917029964003005
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: harpy_fly_strip16_7
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 32
+        width: 55
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e29ea4a38b6105c80800000000000000
+      internalID: -8336137929755006674
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: harpy_fly_strip16_8
+      rect:
+        serializedVersion: 2
+        x: 922
+        y: 33
+        width: 60
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a0f12a67e74164810800000000000000
+      internalID: 1749108038668787466
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: harpy_fly_strip16_9
+      rect:
+        serializedVersion: 2
+        x: 1049
+        y: 35
+        width: 60
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9f8f9df9163d6a820800000000000000
+      internalID: 2929261023898237177
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: harpy_fly_strip16_10
+      rect:
+        serializedVersion: 2
+        x: 1176
+        y: 36
+        width: 60
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 555d206b8560482d0800000000000000
+      internalID: -3277487650738350763
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: harpy_fly_strip16_11
+      rect:
+        serializedVersion: 2
+        x: 1303
+        y: 36
+        width: 60
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e017ae44c3ffb3870800000000000000
+      internalID: 8663798942496616718
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: harpy_fly_strip16_12
+      rect:
+        serializedVersion: 2
+        x: 1430
+        y: 35
+        width: 60
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6b9350f0066085520800000000000000
+      internalID: 2690907786992499126
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: harpy_fly_strip16_13
+      rect:
+        serializedVersion: 2
+        x: 1560
+        y: 53
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 69b24efc12ae23230800000000000000
+      internalID: 3617210881674587030
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: harpy_fly_strip16_14
+      rect:
+        serializedVersion: 2
+        x: 1562
+        y: 34
+        width: 55
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 53740d791a9b383a0800000000000000
+      internalID: -6664278919890319563
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: harpy_fly_strip16_15
+      rect:
+        serializedVersion: 2
+        x: 1685
+        y: 33
+        width: 59
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a4ed2563f53a9b380800000000000000
+      internalID: -8954946754720899510
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: harpy_fly_strip16_16
+      rect:
+        serializedVersion: 2
+        x: 1810
+        y: 32
+        width: 61
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 05a189fcc84615f70800000000000000
+      internalID: 9174224471871461968
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: harpy_fly_strip16_17
+      rect:
+        serializedVersion: 2
+        x: 1941
+        y: 31
+        width: 57
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8860936bc2a28e720800000000000000
+      internalID: 2875594733600179848
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      harpy_fly_strip16_0: -7833074351276430006
+      harpy_fly_strip16_1: -4186582220141633131
+      harpy_fly_strip16_10: -3277487650738350763
+      harpy_fly_strip16_11: 8663798942496616718
+      harpy_fly_strip16_12: 2690907786992499126
+      harpy_fly_strip16_13: 3617210881674587030
+      harpy_fly_strip16_14: -6664278919890319563
+      harpy_fly_strip16_15: -8954946754720899510
+      harpy_fly_strip16_16: 9174224471871461968
+      harpy_fly_strip16_17: 2875594733600179848
+      harpy_fly_strip16_2: 4065140858731425
+      harpy_fly_strip16_3: -7844505858741755780
+      harpy_fly_strip16_4: -5148105573955044518
+      harpy_fly_strip16_5: -65594017694241540
+      harpy_fly_strip16_6: 1691917029964003005
+      harpy_fly_strip16_7: -8336137929755006674
+      harpy_fly_strip16_8: 1749108038668787466
+      harpy_fly_strip16_9: 2929261023898237177
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

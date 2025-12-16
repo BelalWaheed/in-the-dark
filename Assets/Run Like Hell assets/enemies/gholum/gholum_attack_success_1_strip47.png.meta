@@ -1,0 +1,559 @@
+fileFormatVersion: 2
+guid: 6ab47fdbcd1cb4048997e070f0aa4261
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -125030163658035517
+    second: gholum_attack_success_1_strip47_0
+  - first:
+      213: 6626390828743637609
+    second: gholum_attack_success_1_strip47_1
+  - first:
+      213: 5417041914343753701
+    second: gholum_attack_success_1_strip47_2
+  - first:
+      213: -7378139118726992844
+    second: gholum_attack_success_1_strip47_3
+  - first:
+      213: 8759191804348982423
+    second: gholum_attack_success_1_strip47_4
+  - first:
+      213: 6698941669949848378
+    second: gholum_attack_success_1_strip47_5
+  - first:
+      213: -1681701315445666969
+    second: gholum_attack_success_1_strip47_6
+  - first:
+      213: 2465086463266797509
+    second: gholum_attack_success_1_strip47_7
+  - first:
+      213: -3048461973806281780
+    second: gholum_attack_success_1_strip47_8
+  - first:
+      213: 981181007399168531
+    second: gholum_attack_success_1_strip47_9
+  - first:
+      213: -750330369457699843
+    second: gholum_attack_success_1_strip47_10
+  - first:
+      213: -1437612407561434415
+    second: gholum_attack_success_1_strip47_11
+  - first:
+      213: 2011899121099391268
+    second: gholum_attack_success_1_strip47_12
+  - first:
+      213: 5306450768930200592
+    second: gholum_attack_success_1_strip47_13
+  - first:
+      213: 4649597099103658925
+    second: gholum_attack_success_1_strip47_14
+  - first:
+      213: -8099357381037951473
+    second: gholum_attack_success_1_strip47_15
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 16
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: gholum_attack_success_1_strip47_0
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 36
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3ce24f48abdc34ef0800000000000000
+      internalID: -125030163658035517
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gholum_attack_success_1_strip47_1
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 4
+        width: 57
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 96abb22c95ba5fb50800000000000000
+      internalID: 6626390828743637609
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gholum_attack_success_1_strip47_2
+      rect:
+        serializedVersion: 2
+        x: 181
+        y: 4
+        width: 33
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5e78cdd9be23d2b40800000000000000
+      internalID: 5417041914343753701
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gholum_attack_success_1_strip47_3
+      rect:
+        serializedVersion: 2
+        x: 308
+        y: 5
+        width: 33
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 43c2dd400959b9990800000000000000
+      internalID: -7378139118726992844
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gholum_attack_success_1_strip47_4
+      rect:
+        serializedVersion: 2
+        x: 434
+        y: 5
+        width: 34
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 794ebb1b986ee8970800000000000000
+      internalID: 8759191804348982423
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gholum_attack_success_1_strip47_5
+      rect:
+        serializedVersion: 2
+        x: 561
+        y: 5
+        width: 34
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a3b3c60d4fb67fc50800000000000000
+      internalID: 6698941669949848378
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gholum_attack_success_1_strip47_6
+      rect:
+        serializedVersion: 2
+        x: 688
+        y: 4
+        width: 34
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 76bcd8a409569a8e0800000000000000
+      internalID: -1681701315445666969
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gholum_attack_success_1_strip47_7
+      rect:
+        serializedVersion: 2
+        x: 815
+        y: 4
+        width: 34
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5c734a7e31fb53220800000000000000
+      internalID: 2465086463266797509
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gholum_attack_success_1_strip47_8
+      rect:
+        serializedVersion: 2
+        x: 942
+        y: 4
+        width: 34
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ccb8dfb7cffa1b5d0800000000000000
+      internalID: -3048461973806281780
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gholum_attack_success_1_strip47_9
+      rect:
+        serializedVersion: 2
+        x: 1069
+        y: 4
+        width: 34
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 31a236e7deadd9d00800000000000000
+      internalID: 981181007399168531
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gholum_attack_success_1_strip47_10
+      rect:
+        serializedVersion: 2
+        x: 1195
+        y: 4
+        width: 35
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: df34940218a4695f0800000000000000
+      internalID: -750330369457699843
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gholum_attack_success_1_strip47_11
+      rect:
+        serializedVersion: 2
+        x: 1322
+        y: 4
+        width: 35
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1da4b92d1239c0ce0800000000000000
+      internalID: -1437612407561434415
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gholum_attack_success_1_strip47_12
+      rect:
+        serializedVersion: 2
+        x: 1449
+        y: 5
+        width: 35
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 421cc055793bbeb10800000000000000
+      internalID: 2011899121099391268
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gholum_attack_success_1_strip47_13
+      rect:
+        serializedVersion: 2
+        x: 1575
+        y: 5
+        width: 36
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 01cde2c0cdc44a940800000000000000
+      internalID: 5306450768930200592
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gholum_attack_success_1_strip47_14
+      rect:
+        serializedVersion: 2
+        x: 1701
+        y: 4
+        width: 37
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: da3a2c05defa68040800000000000000
+      internalID: 4649597099103658925
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gholum_attack_success_1_strip47_15
+      rect:
+        serializedVersion: 2
+        x: 1831
+        y: 4
+        width: 34
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f067b4acf5d499f80800000000000000
+      internalID: -8099357381037951473
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      gholum_attack_success_1_strip47_0: -125030163658035517
+      gholum_attack_success_1_strip47_1: 6626390828743637609
+      gholum_attack_success_1_strip47_10: -750330369457699843
+      gholum_attack_success_1_strip47_11: -1437612407561434415
+      gholum_attack_success_1_strip47_12: 2011899121099391268
+      gholum_attack_success_1_strip47_13: 5306450768930200592
+      gholum_attack_success_1_strip47_14: 4649597099103658925
+      gholum_attack_success_1_strip47_15: -8099357381037951473
+      gholum_attack_success_1_strip47_2: 5417041914343753701
+      gholum_attack_success_1_strip47_3: -7378139118726992844
+      gholum_attack_success_1_strip47_4: 8759191804348982423
+      gholum_attack_success_1_strip47_5: 6698941669949848378
+      gholum_attack_success_1_strip47_6: -1681701315445666969
+      gholum_attack_success_1_strip47_7: 2465086463266797509
+      gholum_attack_success_1_strip47_8: -3048461973806281780
+      gholum_attack_success_1_strip47_9: 981181007399168531
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

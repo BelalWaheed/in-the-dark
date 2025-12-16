@@ -1,0 +1,637 @@
+fileFormatVersion: 2
+guid: b6c5c99972f864e4baddd7a5b4156aa2
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -4680013163549118157
+    second: gholum_jump_strip18_0
+  - first:
+      213: 4281596815853232479
+    second: gholum_jump_strip18_1
+  - first:
+      213: -576603757335891850
+    second: gholum_jump_strip18_2
+  - first:
+      213: -2090325540471674743
+    second: gholum_jump_strip18_3
+  - first:
+      213: 6769174897672152435
+    second: gholum_jump_strip18_4
+  - first:
+      213: 557749990667366539
+    second: gholum_jump_strip18_5
+  - first:
+      213: -1641381475691844143
+    second: gholum_jump_strip18_6
+  - first:
+      213: 6476256198434917098
+    second: gholum_jump_strip18_7
+  - first:
+      213: 7453431104532567428
+    second: gholum_jump_strip18_8
+  - first:
+      213: -709173958744219047
+    second: gholum_jump_strip18_9
+  - first:
+      213: 2153726379178738116
+    second: gholum_jump_strip18_10
+  - first:
+      213: -8392225742922312040
+    second: gholum_jump_strip18_11
+  - first:
+      213: 8671044812629705437
+    second: gholum_jump_strip18_12
+  - first:
+      213: 8580905026230456183
+    second: gholum_jump_strip18_13
+  - first:
+      213: -158106055954212612
+    second: gholum_jump_strip18_14
+  - first:
+      213: 5297861451835565448
+    second: gholum_jump_strip18_15
+  - first:
+      213: -2232283534533156921
+    second: gholum_jump_strip18_16
+  - first:
+      213: -1486369158276162504
+    second: gholum_jump_strip18_17
+  - first:
+      213: 5569644857244736228
+    second: gholum_jump_strip18_18
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 16
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: gholum_jump_strip18_0
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 5
+        width: 31
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 331b082d2d04d0fb0800000000000000
+      internalID: -4680013163549118157
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gholum_jump_strip18_1
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 5
+        width: 32
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f5120608e994b6b30800000000000000
+      internalID: 4281596815853232479
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gholum_jump_strip18_2
+      rect:
+        serializedVersion: 2
+        x: 302
+        y: 5
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 670b6db00fd7ff7f0800000000000000
+      internalID: -576603757335891850
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gholum_jump_strip18_3
+      rect:
+        serializedVersion: 2
+        x: 427
+        y: 5
+        width: 33
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9886247fefbadf2e0800000000000000
+      internalID: -2090325540471674743
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gholum_jump_strip18_4
+      rect:
+        serializedVersion: 2
+        x: 549
+        y: 5
+        width: 38
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3756d3e64b0f0fd50800000000000000
+      internalID: 6769174897672152435
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gholum_jump_strip18_5
+      rect:
+        serializedVersion: 2
+        x: 680
+        y: 5
+        width: 34
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b80b43359a68db700800000000000000
+      internalID: 557749990667366539
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gholum_jump_strip18_6
+      rect:
+        serializedVersion: 2
+        x: 811
+        y: 5
+        width: 31
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1dd2b788e34a839e0800000000000000
+      internalID: -1641381475691844143
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gholum_jump_strip18_7
+      rect:
+        serializedVersion: 2
+        x: 941
+        y: 5
+        width: 28
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aea822623b840e950800000000000000
+      internalID: 6476256198434917098
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gholum_jump_strip18_8
+      rect:
+        serializedVersion: 2
+        x: 1066
+        y: 5
+        width: 32
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 485d28f7918ef6760800000000000000
+      internalID: 7453431104532567428
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gholum_jump_strip18_9
+      rect:
+        serializedVersion: 2
+        x: 1190
+        y: 5
+        width: 38
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 952e719ba028826f0800000000000000
+      internalID: -709173958744219047
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gholum_jump_strip18_10
+      rect:
+        serializedVersion: 2
+        x: 1313
+        y: 5
+        width: 37
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4c1465e1bb293ed10800000000000000
+      internalID: 2153726379178738116
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gholum_jump_strip18_11
+      rect:
+        serializedVersion: 2
+        x: 1349
+        y: 17
+        width: 10
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8961a369623d88b80800000000000000
+      internalID: -8392225742922312040
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gholum_jump_strip18_12
+      rect:
+        serializedVersion: 2
+        x: 1442
+        y: 5
+        width: 42
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dd28940e05db55870800000000000000
+      internalID: 8671044812629705437
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gholum_jump_strip18_13
+      rect:
+        serializedVersion: 2
+        x: 1571
+        y: 5
+        width: 37
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 77f84d368af751770800000000000000
+      internalID: 8580905026230456183
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gholum_jump_strip18_14
+      rect:
+        serializedVersion: 2
+        x: 1700
+        y: 4
+        width: 37
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cf8d20a316b4ecdf0800000000000000
+      internalID: -158106055954212612
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gholum_jump_strip18_15
+      rect:
+        serializedVersion: 2
+        x: 1830
+        y: 4
+        width: 33
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 885e4e1dbe8c58940800000000000000
+      internalID: 5297861451835565448
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gholum_jump_strip18_16
+      rect:
+        serializedVersion: 2
+        x: 1960
+        y: 4
+        width: 29
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7cf9236d3f55501e0800000000000000
+      internalID: -2232283534533156921
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gholum_jump_strip18_17
+      rect:
+        serializedVersion: 2
+        x: 2086
+        y: 5
+        width: 28
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 83c5adb202b5f5be0800000000000000
+      internalID: -1486369158276162504
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gholum_jump_strip18_18
+      rect:
+        serializedVersion: 2
+        x: 2209
+        y: 5
+        width: 31
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4ea57290d7a5b4d40800000000000000
+      internalID: 5569644857244736228
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      gholum_jump_strip18_0: -4680013163549118157
+      gholum_jump_strip18_1: 4281596815853232479
+      gholum_jump_strip18_10: 2153726379178738116
+      gholum_jump_strip18_11: -8392225742922312040
+      gholum_jump_strip18_12: 8671044812629705437
+      gholum_jump_strip18_13: 8580905026230456183
+      gholum_jump_strip18_14: -158106055954212612
+      gholum_jump_strip18_15: 5297861451835565448
+      gholum_jump_strip18_16: -2232283534533156921
+      gholum_jump_strip18_17: -1486369158276162504
+      gholum_jump_strip18_18: 5569644857244736228
+      gholum_jump_strip18_2: -576603757335891850
+      gholum_jump_strip18_3: -2090325540471674743
+      gholum_jump_strip18_4: 6769174897672152435
+      gholum_jump_strip18_5: 557749990667366539
+      gholum_jump_strip18_6: -1641381475691844143
+      gholum_jump_strip18_7: 6476256198434917098
+      gholum_jump_strip18_8: 7453431104532567428
+      gholum_jump_strip18_9: -709173958744219047
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
